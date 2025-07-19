@@ -1,0 +1,9 @@
+font_family					FiraCode Nerd Font
+confirm_os_window_close		0
+enable_audio_bell			no
+
+
+# BEGIN_KITTY_THEME
+# Everforest Dark Medium
+include current-theme.conf
+# END_KITTY_THEME

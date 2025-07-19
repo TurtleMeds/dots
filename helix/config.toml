@@ -1,0 +1,28 @@
+theme = "everforest_dark"
+
+[editor]
+line-number = "relative"
+mouse = false
+cursor-shape.insert = "bar"
+default-yank-register = "+"
+jump-label-alphabet = "sadfjklewcmpgh"
+file-picker.hidden = false
+indent-guides.render = true
+bufferline = "multiple"
+
+[keys.normal]
+"A-0" = "rotate_selection_contents_forward"
+"A-9" = "rotate_selection_contents_backward"
+"C-o" = "insert_newline"
+
+[editor.whitespace.render]
+space = "all"
+tab = "all"
+
+[editor.statusline.mode]
+normal = "NORMAL"
+insert = "INSERT"
+select = "SELECT"
+
+[editor.lsp]
+display-inlay-hints = false

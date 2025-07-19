@@ -1,0 +1,3808 @@
+nmtui
+systemctl enable NetworkManager.service
+nmtui
+systemctl start NetworkManager.service
+nmtui
+clear
+yay
+sudo pacman -S brightnessctl
+su
+sudo pacman -S brightnessctl
+brightnessctl --help
+brightnessctl s 10%
+brightnessctl s 10
+ping google.com
+sudo pacman -S linux-firmware
+sudo pacman -S zellij
+sudo pacman -S git
+mkdir proj
+cd proj
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+man yay
+yay rtw8852be
+systemctl status /usr/lib/systemd/system/systemd-tmpfiles-setup.service
+systemctl status systemd-tmpfiles-setup.service
+yay
+clear
+zellij
+clear
+reboot now
+sudo reboot now
+journalctl
+lsblk
+open /etc/fstab
+journalctl
+ls /dev
+vim /etc/fstab
+sudo vim /etc/fstab
+zellij
+yay hyprland
+yay -S fastfetch
+fastfetch --help
+fastfetch
+brightnessctl s 10
+brightnessctl s 1
+wev
+yay -S helix-git
+pacman -S kitty
+yay -S kitty
+yay fira code nerd
+pkill Hyprland
+Hyprland
+hx .
+cd .config
+ls
+ls go
+ls go/telemetry/
+rm go
+rm go -r
+ls
+yay -S zen browser
+yay zen browser
+cd .config/hypr
+ls
+touch autostart.conf
+hx autostart.conf
+clear
+ls
+cat proj/yay/PKGBUILD
+hx .config/kitty
+zen-browser
+yay xpcom
+yay xul
+yay thorium
+zen-browser
+lsblk
+zen-browser
+zen-browser &
+zen-browser &&
+zen-browser;
+hx .config/kitty/kitty.conf
+mount /dev/nvme1n1p3 /mnt
+sudo mount /dev/nvme1n1p3 /mnt
+cd /mnt
+ls
+cd turtle
+cd .config/kitty
+ls
+ls -a
+cd .config/
+ls
+cd ../dotfiles
+cd kitty
+cd .config/kitt
+cd .config/kitty/
+ls
+hx hypr/hyprland.conf
+hx kitty.conf
+exit
+clear
+hx kitty/kitty.conf
+kitten themes
+ls kitty
+yay ironbar
+rustup default stable
+yay ironbar
+la
+ls
+mkdir ironbar
+hx ironbar/config.corn
+ironbar
+gsettings
+cd /mnt/turtle/dotfiles/.config/hypr
+hx hyprland.conf
+kitten themes
+cd
+cd .config/kitty
+ls
+open kitty.conf.bak
+rm kitty.conf.bak
+clear
+ls .themes
+ls
+ls -a
+rm .bashrc
+rm .bash_profile
+rm .bash_logout
+ls
+ls -a
+clear
+ls -a
+open .lesshst
+ls .themes
+ls /usr/share/themes
+yay everforest gtk
+hx hypr
+yay -S qt6ct
+cd .config
+hx hypr
+qt6ct
+hyprctl reload
+qt6ct
+cd /mnt/turtle/dotfiles/.config/hypr
+grep -rn QT_QPA
+hx .config/hypr/hyprland.conf
+hx .config/hypr/autostart.conf
+hyprctl dispatch exit
+qt6ct
+cd /mnt/turtle/dotfiles/.config/hypr
+grep -rn QT_QPA
+grep -rn gtk
+cd
+hx .config/hypr/hyprland.conf
+yay gtk settings
+nwg-look
+yay -Qi hypr
+yay -H
+yay -j
+yay -h
+yay -Qi hypr*
+yay -Qi xdg-desktop-portal-hyprland
+yay -S xdg-desktop-partal-hyprland
+yay -S xdg-desktop-portal-hyprland
+yay -S uwsm
+hx .config/nushell/env.nu
+yay -S wofi
+hx .config/hypr/hyprland.conf
+exit
+hyprctl dispatch exit
+Hyprland
+exit
+hx .config/hypr/hyprland.conf
+hyprctl dispatch exit
+Hyprland
+hx .config/nushell/env.nu
+hx .profile
+cp /mnt/turtle/.config/helix/config.toml .config/helix/
+hx .profile
+hx .config/helix/config.toml
+hx .profile
+hyprctl dispatch exit
+exit
+bash .profile
+bash ./.profile
+hx .config/nushell/env.nu
+bash
+exit
+hx .config/nushell/env.nu
+exit
+uwsm check may-start
+(uwsm check may-start | complete | get exit-code) == 0
+(uwsm check may-start | complete | get exit_code) == 0
+hx .config/nushell/env.nu
+exit
+uwsm start default
+eixt
+exit
+yay hyprpaper
+cp /mnt/turtle/Downloads/wallpaper/amanita.jpg .local/share/wallpaper
+ls .local/share
+cd .local/share
+mv wallpaper amanita.jpg
+mkdir wallpaper
+mv amanita.jpg wallpaper/
+hx .config/hypr/hyprpaper.conf
+hyprpaper
+hx .config/hypr/hyprpaper.conf
+pactl
+pactl -g
+pactl -h
+pactl list
+sudo pactl list
+beep
+kitten beep
+kitten --help
+kitten query-terminal
+pactl --help
+pactl get-default-sink
+pactl exit
+systemctl status pulseaudio
+yay pulseaudio
+pactl get-default-sink
+systemctl status pulseaudio
+bash
+yay -S fish-shell
+yay fish shell
+fish
+systemctl status pulseaudio
+systemctl enable pulseaudio.service
+htop
+btop
+yay -S btop
+btop
+systemctl --user enable pulseaudio.service
+systemctl --user enable pulseaudio.socket
+systemctl --user start pulseaudio.service
+systemctl --user start pulseaudio.socket
+pactl get-default-sink
+pactl --help
+pactl list
+pamixer
+pamixer --help
+pamixer --get-default-sink
+yay -Rs pamixer
+yay pavucontrol
+pavucontrol 
+alsamixer
+yay -S alsamixer
+amixer
+yay -S amixer
+yay alsa mixer
+yay -S alsa
+pacmd list-sinks
+pavucontrol 
+hdasdf
+a;slkdfja;slkdj
+clera
+clear
+man
+man man
+pavucontrol 
+yay alsa
+yay -S alsa-tools
+alsamixer
+amixer
+yay -Rs alsa-tools
+yay -S alsa-utils
+alsamixer
+amixer
+pavucontrol
+systemctl status pulseaudio
+systemctl --user status pulseaudio
+yay bluez
+systemctl --user status bluex
+systemctl --user status bluez
+systemctl status bluez
+bluex
+bluez
+man bluez
+yay -Si pulseaudio-bluetooth
+yay -Rs pulseaudio-bluetooth
+systemctl --user restart pulseaudio
+systemctl --user status pulseaudio
+pavucontrol
+sudo reboot now
+hx .config/hypr/hyprland.conf
+nmtui
+hx .config/hypr/hyprland.conf
+systemctl --user disable pulseaudio.service
+systemctl --user disable pulseaudio.socket
+systemctl --user stop pulseaudio
+systemctl --user stop pulseaudio.socket
+yay wireplumber
+pipewire
+systemctl --user enable pipewire
+systemctl --user start pipewire
+pavucontrol
+wpctl
+wpctl status
+yay -Rs pavucontrol
+yay -S pwvucontrol
+pwvucontrol
+sudo reboot now
+pacman -Qs pipewire
+sudo pacman -S pipewire pipewire-pulse pipewire-alsa
+yay -S pipewire pipewire-pulse pipewire-alsa
+systemctl --user enable pipewire<\n>systemctl --user start pipewire<\n>systemctl --user enable pipewire-pulse<\n>systemctl --user start pipewire-pulse<\n>
+systemctl --user status pipewire<\n>systemctl --user status pipewire-pulse<\n>
+pactl list short sinks
+speaker-test -c 2
+groups
+sudo usermod -aG audio turtle
+yay -S keyd
+systemctl enable keyd
+sudo mount /dev/nvme1n1p3 /mnt
+umount /mnt
+sudo umount /mnt
+sudo mount /dev/nvme1n1p2 /mnt
+lsble
+lsblk
+sudo mount /dev/nvme0n1p2 /mnt
+ls
+ls /mnt/etc
+yay -S fd
+fd /mnt "keyd"
+fd keyd /mnt
+cp /mnt/bedrock/strata/arch/etc/keyd/default.conf /etc/keyd/default.conf
+sudo cp /mnt/bedrock/strata/arch/etc/keyd/default.conf /etc/keyd/default.conf
+keyd reload
+sudo keyd reload
+systemctl start keyd
+ironbar
+cd .config
+hx ironbar/config.corn
+ironbar
+hx ironbar/config.corn
+ironbar
+hx
+k
+ironbar
+rm -r ironbar
+yay -Rs ironbar
+yay -Rs ironbar-git
+yay -S ags-hyprpanel-gi
+yay -S ags-hyprpanel-git
+fastfetch
+th
+fastfetch
+yay -S pactree
+yay pactree
+yay -Ps
+hyprpanel
+uswm app -- hyprpanel
+uwsm app -- hyprpanel
+hyprctl dispatch exec uwsm app -- hyprpanel
+hyprpanel toggleWindow settings-dialog
+$env.TERM
+yay -S hyprpicker
+yay -S power-profiles-daemon grimblast wf-recorder hyprsunset matugen swww
+zellij
+sudo mount /dev/nvme0n1p3 /mnt/home
+hx .config/nushell
+hx /mnt/home/turtle/.config/nushell/config.nu
+yay - zoxide
+yay -S zoxide
+hx /mnt/home/turtle/.config/nushell/env.nu
+hx .config/nushell/login.nu
+exit
+hx /mnt/home/turtle/.config/nushell/login.nu
+hx .config/nushell
+yay -S hyfetch
+cp /mnt/home/turtle/.local/share/ascii .local/share/ascii
+ff
+clear
+ff
+yay -S vesktop
+yay -Ps
+bash -c "pacman -Rsn $(pacman -Qdtq)"
+sudo bash -c "pacman -Rsn $(pacman -Qdtq)"
+notify-send "hello, world"
+lsblk
+ls /mnt/home
+ls /mnt/home/turtle/dotfiles/
+hx .config/kitty/kitty.conf
+cp /mnt/home/turtle/.config/zellij/ .config/zellig 0r
+cp /mnt/home/turtle/.config/zellij/ .config/zellig -r
+mv .config/zellig/ .config/zellij -r
+mv .config/zellig/ .config/zellij
+cd .config/zellij
+ls -a
+rm config.kdl
+mv zellig/config.kdl .
+ls
+rm -r zellig
+hx config.kdl
+kitten themes
+clear
+cp /mnt/home/turtle/OneDrive_SeattleSchools/ OneDrive
+cp /mnt/home/turtle/OneDrive_SeattleSchools/ OneDrive/ -r
+cp /mnt/home/turtle/OneDrive_SeattleSchools/ OneDrive/ -r -mkdio
+mkdir OneDrive
+cp /mnt/home/turtle/OneDrive_SeattleSchools/ OneDrive/ -r
+cp /mnt/home/turtle/projects/ proj
+cp /mnt/home/turtle/projects/ proj -r
+du proj
+du OneDrive
+yay -S gdu
+gdu proj
+cd proj
+rm yay
+rm yay -r
+cp projects/* .
+cp projects/* . -r
+rmdir projects
+rm projects -r
+cd ../OneDrive/
+ls
+mv OneDrive_SeattleSchools/* .
+ls
+rmdir OneDrive_SeattleSchools
+clear
+ls
+cd ..
+ls
+ls Pictures/
+ls Pictures/Screenshots/
+hyprpanel toggleWindow settings-dialog
+swww
+cd .local/share
+cd wallpaper/
+ls
+ln -h
+ln --help
+ls
+ln -s forest_stairs.jpg wallpaper
+cd 
+z hypr
+cd .config/hypr
+ls
+hx hyprpaper.conf
+hx hyprland.conf
+ls
+cd
+cd Downloads/
+ls
+mv everforest.rasi ~/.config/rofi/everforest.rasi
+yay -Rs wofi
+yay -S rofi
+cd ..
+mv Downloads/everforest.rasi .config/rofi/
+mkdir .config/rofi
+mv Downloads/everforest.rasi .config/rofi/
+rofi --help | less
+rofi -show drun
+rofi
+yay -Rs ro
+yay -Rs rofi
+yay -S rofi-wayland
+rofi -show drun
+man rofi
+rofi -show ssh
+rofi -config .config/rofi/everforest/rasi -show drun
+cd .config/rofi
+ls
+rofi -dump-config
+rofi -dump-config | save config.rasi
+hx config.rasi
+rofi -show drun
+hx config.rasi
+rofi -show drun
+cd ..
+z hypr
+hx hyprland.conf
+z rofi
+clear
+exit
+hx config.rasi
+yay -S intellij-community-edition
+yay intellij
+sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com<\n>sudo pacman-key --lsign-key 3056513887B78AEB
+sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'<\n>sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+hx /etc/pacman.conf
+sudo hx /etc/pacman.conf
+yay -Syu
+clear
+z
+clear
+yay -S tlp
+astal-power-profiles 
+z hypr
+yay -S playerctl
+ping google.com
+ping 1.1.1.1
+cd /mnt/turtle/Downloads
+cd /mnt/home/turtle/Downloads
+ls
+cp OpenVPN-Config.ovpn ~/Downloads
+cd ~/Downloads
+ls
+clear
+ls
+yay networkmanager openvpn
+mv OpenVPN-Config.ovpn Home.ovpn
+sudo nmcli connection import type openvpn file ./Home.ovpn
+nmtui
+hyprpanel t energymenu
+hyprpanel t settings-dialog
+man kitty
+kitty --class "network" nmtui
+hyprctl show clients
+hyprctl clients
+hyprctl
+hyprctl activewindow
+exit
+hyprctl clients
+z hypr
+hx windowrules.conf
+hx hyprland.conf
+hx windowrules.conf
+kitty --class "network" nmtui
+hx
+systemd-analyze --user unit-paths
+mkdir .local/share/systemd/user
+yay -S carapace
+yay -S carapace-bin
+hx .local/share/systemd/user/hyprpaper.service
+systemd --user enable hyprpaper
+systemctl --user enable hyprpaper
+cd .local/share/systemd/user/
+cp hyprpaper.service hyprpanel.service
+man hyprpanel
+hyprpanel --help
+man astal
+astal
+hx hyprpanel.service 
+systemctl --user enable hyprpanel
+z hypr
+hx hyprland.conf
+hx keybinds.conf
+yay -S hyprlock
+hyprlock
+date
+date now
+date humanize
+date now | date humanize
+^date
+^date --iso-8601 
+^date --date 
+date --date
+date now | date humanize --date
+help date
+"now" | date from-human
+datetime
+datetimectl
+timedate
+timedatectl
+hyprpanel t settings-dialog
+hx 
+hx --health json
+yay -S vscode-json-language-server
+yay json language server
+cd ../hyprpane
+cd ../hyprpanel/
+ls
+hx config.json 
+hx modules.json 
+hyprpanel t settings-dialog
+hyprlock
+yay
+ls -a
+hx config.json
+hyprpanel reload
+hyprpanel explain
+hyprpanel r
+hyprpanel t settings-dialog
+z hypr
+hx hyprland.conf
+hyprpanel explain
+yay -S vscode-json-languageserver
+helix --health json
+hx
+cd ../hyprpanel/
+ls
+yay -Ql hyprpanelERR
+yay -Ql hyprpanel
+yay -Ql ags-hyprpanel-git
+yay -Ql ags-hyprpanel-git | grep options
+cd /usr/share/hyprpanel
+ls
+ls assets
+ls src
+ls src -a
+ls -a
+hx hyprpanel.js
+ls
+ls src
+ls themes
+ls
+cd
+z conf
+ls
+hyprpanel r
+hx hyprpanel
+exit
+systemctl --user enable hyprpanel
+systemctl --user start hyprpanel
+z hy
+hx hypridle
+cd mnt
+cd /mnt
+cd home/turtle/dotfiles/.config/hypr/hypridle.conf
+hx hyprlock.conf 
+yay -S qalculate
+yay -S qalc
+yay qalc
+qalcmenu 
+hx hypridle.conf
+hx home/turtle/dotfiles/.config/hypr/hypridle.conf
+hx keybinds.conf 
+hyprlock
+z user
+ls
+hx .
+hyprlock
+hx home/turtle/dotfiles/.config/hypr/hyprlock.conf
+cd
+ls /usr/share/fonts/
+ls /usr/share/fonts/TTF/
+hyprlock
+ls /usr/share/fonts/TTF/ | less
+hyprlock
+hx hyprlock.conf 
+cd /mnt/home/turtle/dotfiles
+grep -rn lid
+grep -rn bind | grep lid
+ls
+ls -a
+cd .config/hypr
+ls
+cd conf
+ls
+cd keybindings/custom.conf
+hx keybindings/custom.conf
+hyprctl devices
+grep -rn switch
+hx keybinds.conf 
+cd 
+c OneDrive/
+cd OneDrive/
+cd `10th Grade/`
+cd CSA/
+cd code
+clear
+cd mastermind
+z hypr
+hx hyprland.conf 
+hx keybinds.conf 
+hyprctl clients
+yay -S openoffice-bin 
+yay -Rs openoffice-bin 
+yay -S onlyoffice-bin 
+z proj
+ls
+cd bombparty-cli/
+ls
++
+=
+zsh -c "="
+bash -c "="
+which =
+which "="
+/usr/bin/+
+/usr/bin/=
+clear
+^=
+man =
+man ^=
+man "="
+^=
+hx Words2Syllables.java
+exit
+z user
+ls
+hx hyprpaper.service 
+systemctl --user add-wants graphical-session.target hyprpaper.service
+systemctl --user add-wants graphical-session.target hyprpanel.service
+hx .config/nushell/env.nu 
+exit
+btop
+gjs --help
+man gjs
+hx .config/nushell/login.nu
+exit
+Hyprland
+clear
+hx .config/nushell/login.nu
+hyprpanel explain
+hyprpanel e vol
+z mastermind
+nmtui
+yay -S fht-compositor-git<\n>yay -S fht-share-picker-git
+clear
+z user
+ls
+hx *.service
+yay -S fht-compositor-git fht-share-picker-git
+uswm --help
+uwsm --help
+uwsm select
+uwsm start fht-compositor-uwsm.desktop
+proj
+ls
+./proj
+ls
+git clone https://github.com/nferhat/fht-compositor
+cd fht-compositor/
+ls
+find -iname *.desktop
+find
+find --help
+^find -iname *.desktop
+cd
+^find -iname *.desktop
+cd /etc
+^find -iname *.desktop
+sudo ^find -iname *.desktop
+sudo find -iname *.desktop
+cd ..
+sudo find -iname *.desktop
+sudo find -iname hyprland.desktop
+cd
+z fht
+cp res/*.desktop /usr/share/wayland-sessions/
+sudo cp res/*.desktop /usr/share/wayland-sessions/
+uwsm start fht-compositor-uwsm.desktop
+cd
+fht
+yay -S fht-compositor-git
+yay -S fht-compositor
+yay -S paru
+paru -S fht-compositor-git
+paru -S fht-compositor
+yay -Rs paru
+z fht
+cargo build --profile opt --features uwsm
+cp target/opt/fht-compositor ~/.local/bin
+$env.PATH
+sudo rm /usr/share/wayland-sessions/fht-compositor*
+install -Dm644 res/fht-compositor-uwsm.desktop -t /usr/share/wayland-sessions
+sudo install -Dm644 res/fht-compositor-uwsm.desktop -t /usr/share/wayland-sessions
+uwsm select
+uwsm start default
+z nu
+z nusheel
+z nushell
+z conf
+cd nushell
+hx env.nu 
+hx config.nu 
+hx env.nu 
+clear
+hx /mnt/home/turtle/.config/nushell/env.nu
+hx env.nu 
+hx /mnt/home/turtle/.config/nushell/env.nu
+ls ~/.local
+rm ~/.local/bin
+z fht
+cp target/opt/fht-compositor ~/.local/bin/
+mkdir ~.local/bin
+mkdir ~/.local/bin
+cp target/opt/fht-compositor ~/.local/bin/
+uwsm start default
+sx
+clear
+uwsm start default
+journalctl -xe
+clear
+yay -S mesa libwayland libxkbcommon libudev libinput libgbm libseat libdrm lib-displayinfo
+yay libwayland
+yay -S mesa libxkbcommon libudev libinput libgbm libseat libdrm lib-displayinfo
+yay -S mesa libxkbcommon udev libinput gbm libseat libdrm displayinfo
+yay lib-displayinfo
+yay libdisplayinfo
+yay displayinfo
+yay display-info
+yay -S mesa libxkbcommon udev libinput gbm libseat libdrm
+yay -S mesa libxkbcommon udev libinput gbm libdrm
+uwsm start default
+journalctl -xe
+install -Dm644 res/fht-compositor.desktop -t /usr/share/wayland-sessions
+sudo install -Dm644 res/fht-compositor.desktop -t /usr/share/wayland-sessions
+cd .config
+ls
+cd fh
+cd fht
+ls
+hx compositor.toml 
+exit
+zen-browser
+dbus-run-session fht-compositor
+uwsm start default
+clear
+z
+z fht
+z conf/fht
+z ig/fht
+dbus-run-session fht-compositor
+uwsm select
+uwsm start default
+hx /usr/share/wayland-sessions/
+clear
+uwsm select
+clear
+exit
+nu
+exit
+z
+ls
+clear
+systemctl --user add-wants graphical-session.target hyprpanel.service
+systemctl --user add-wants graphical-session.target hyprpaper.service
+systemctl --user start hyprpanel
+systemctl --user start hyprpaper
+z usre
+z user
+hx *.service
+yay -Rs fht-share-picker-git-debug 
+yay -Rs fht-share-picker-git-debug fht-share-picker-git 
+z conf
+ls
+rm -r fht
+cd ..
+z proj
+ls
+cd ..
+rm .local/bin/fht-compositor
+sudo rm /usr/share/wayland-sessions/fht-compositor*
+clear
+z nu
+hx env.nu 
+java
+z down
+c
+java -jar svgeq-release.jar TikTok.svg
+ls
+hx TikTok-output.txt 
+open TikTok-output.txt | wl-copy
+rm Tik*
+clear
+ls
+java -jar svgeq-release.jar "Zoom Communications.svg"
+ls
+open `Zoom Communications-output.txt` | wl-copy
+java -jar svgeq-release.jar "~/Downloads/Gucci Style Minnie Mouse.svg"
+java -jar svgeq-release.jar "Gucci Style Minnie Mouse.svg"
+ls
+open `Gucci Style Minnie Mouse-output.txt`
+open `Gucci Style Minnie Mouse-output.txt` | wl-copy
+nmtui
+clera
+c
+z hypr
+hyprlock
+hx hyprlock.conf 
+yay -S riverwm
+yay river
+cd ../rive
+cd ../river
+cd ../riverwm
+cd ..
+ls
+ls JetBrains
+riverctl
+river
+ls
+man river
+man riverctl
+mkdir river
+cd river
+ls
+man nu
+man nushell
+help alias
+man riverctl
+fg
+alias fg = job unfreeze
+fg
+riverctl --help
+river
+hx init
+chmod +x init
+hx init
+uwsm select
+uwsm start default
+pkill river
+river
+systemctl --user start seatd.sock
+systemctl --user start seatd
+systemctl start seatd
+river
+seatd
+sudo seatd
+job spawn --help
+job spawn { sudo seatd }
+job recv 1
+job recv --help
+job recv 
+pkill river 
+river
+ear
+c
+clera
+clear
+uwsm start default
+btop
+btop --force-utf
+uwsm start default
+uwsm start default --force
+uwsm start default --help
+river.desktop
+uwsm select
+sudo reboot now
+river --help
+river -h
+journalctl -xe
+clear
+uwsm
+uwsm --help
+uwsm stop
+pkill river
+river
+exit
+pkill river
+systemctl status seatd
+systemctl enable --now seatd
+hx /etc/fstab
+sudo hx /etc/fstab
+systemctl enable --now seatd
+river
+systemctl status seatd
+nmtui
+clear
+hx .config/river/init 
+chmod +x init
+chmod +x .config/river/init
+river
+Hyprland
+sudo reboot now
+pkill river
+uwsm stop
+uswm select
+uwsm select
+clear
+exit
+c
+exit
+clear
+z hy
+z user
+ls
+cp hyprpaper.service clapboard.servide
+mv clapboard.servide clapboard.service
+man clapboard
+hx clapboard.service 
+systemctl --user enable --now clapboard
+yay -S clapboard
+yay clapboard
+nmtui
+yay -S clapboard-git
+systemctl --user enable --now clapboard
+clapboard
+clapboard --help
+man clapboard
+z conf
+ls
+hx clapboard/
+cd clapboard/
+clapboard
+man rofi
+clapboard
+man rofi
+clapboard
+hx config.toml
+btop
+clear
+z hy
+hx key
+hx keybinds.conf 
+z pro
+clera
+c
+hx test.sh
+ls
+hx test
+chmod +x test
+./test
+hx test
+./test
+hx test
+./test
+hx test
+./test
+echo --help
+hx test
+echo --help
+./test
+hx test
+hx testsh
+./test
+nmtui
+i
+z river
+rm init
+wl-paste | save init; chmod +x init
+rive
+river
+hx init
+uwsm select
+river
+clear
+river
+z mastermind
+hx init
+riverctl --help
+hx init
+riverctl map normal Super O Return spawn "rofi -show drun"
+rofi -show drun
+hx init
+riverctl unmap Super O
+riverctl umap Super O
+man rivertl
+man riverctl
+riverctl unmap normal Super O
+riverctl map normal Super O Return spawn "rofi -show drun"
+rofi -show drun
+hx init
+riverctl map normal Super O Return spawn 'rofi -show drun'
+riverctl unmap normal Super O
+riverctl map normal Super O Return spawn 'rofi -show drun'
+hx init
+chmod +x rofi.sh 
+hx rofi.sh 
+riverctl map normal Super O Return spawn '~/.config/river/rofi.sh'
+riverctl map normal Super R Return spawn '~/.config/river/rofi.sh'
+riverctl map normal Super r Return spawn '~/.config/river/rofi.sh'
+pactl 
+pactl --help
+pactl get-sink-volume
+pactl list-sink
+pactl list-sinks
+pactl list
+pactl list short sinks
+pactl get-sink-volume 5
+pactl get-sink-volume 52
+rm init
+rm rofi.sh
+cd ..
+rmdir river
+yay -Rs river
+clear
+exit
+exit
+zen-browser
+exit
+riverctl
+river
+cd OneDrive/
+ls
+cd `Celeste + Practice Mod (Web)/`
+ls
+cd `Celeste + Practice Mod (Web)/`
+ls
+cd `CELESTE Practice Mod v600m/`
+ls
+ls --full-paths 
+nmtui
+cd
+cd OneDrive/Celeste/ls
+ls
+cd OneDrive/Celeste/
+ls
+unzip Celeste__Practice_Mod_Web_7hhrk.zip 
+gunzip Celeste__Practice_Mod_Web_7hhrk.zip 
+yay -S unzip
+unzip Celeste__Practice_Mod_Web_7hhrk.zip 
+ls
+rm Celeste__Practice_Mod_Web_7hhrk.zip
+ls `Celeste + Practice Mod (Web)/`
+mv `Celeste + Practice Mod (Web)/*` .
+ls
+rm `CELESTE Practice Mod v600m/`
+ls `Celeste + Practice Mod (Web)/`
+rmdir `CELESTE Practice Mod v600m/`
+ls `Celeste + Practice Mod (Web)/` -r
+ls `Celeste + Practice Mod (Web)/` -a
+cd `Celeste + Practice Mod (Web)/`
+ls
+ls -la
+cd ..
+rm -r `Celeste + Practice Mod (Web)/`
+ls
+ls `CELESTE Practice Mod v600m/` --full-paths
+clear
+exit
+cd conf
+z conf
+rg '{"0":{"left":["dashboard","clock","weather","workspaces"],"middle":["windowtitle"],"right":["updates","hypridle","hyprsunset","volume","network","bluetooth","battery","systray","notifications"]}}'
+yay -S ripgrep
+rg '{"0":{"left":["dashboard","clock","weather","workspaces"],"middle":["windowtitle"],"right":["updates","hypridle","hyprsunset","volume","network","bluetooth","battery","systray","notifications"]}}' -rm
+rg '{"0":{"left":["dashboard","clock","weather","workspaces"],"middle":["windowtitle"],"right":["updates","hypridle","hyprsunset","volume","network","bluetooth","battery","systray","notifications"]}}' -rn
+man rg
+rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" 
+cd /etc
+rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" 
+sudo rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" 
+cd ..
+ls mnt
+ls /mnt
+sudo rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" 
+man rg
+sudo rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" --no-messages 
+ls
+cd /usr
+sudo rg "\\{\\x220\\x22\\x3a\\{\\x22left\\x22\\x3a\\[\\x22dashboard\\x22\\x2c\\x22clock\\x22\\x2c\\x22weather\\x22\\x2c\\x22workspaces\\x22\\]\\x2c\\x22middle\\x22\\x3a\\[\\x22windowtitle\\x22\\]\\x2c\\x22right\\x22\\x3a\\[\\x22updates\\x22\\x2c\\x22hypridle\\x22\\x2c\\x22hyprsunset\\x22\\x2c\\x22volume\\x22\\x2c\\x22network\\x22\\x2c\\x22bluetooth\\x22\\x2c\\x22battery\\x22\\x2c\\x22systray\\x22\\x2c\\x22notifications\\x22\\]\\}\\}" --no-messages 
+cd
+rg "hypridle"
+cd /
+rg '"hypridle"'
+rg '"hypridle"' --no-messages 
+hx /usr/share/hyprpanel/hyprpanel.js 
+rg 'hypridleModule' --no-messages 
+sudo rg 'hypridleModule' --no-messages 
+uwsm start default
+btop
+z hypr
+hx hypridle.conf
+z user
+ls
+cp hyprpaper.service hypridle.servide
+mv hypridle.servide hypridle.service
+hx hypridle.service 
+systemctl --user enable --now hypridle
+systemctl --user status hypridle
+hypridle
+yay -S hypridle
+systemctl --user enable --now hypridle
+systemctl --user status hypridle
+systemctl --user help hypridle
+man hypridle
+man hyprpaper
+man man
+info man
+clear
+z
+sudo hx /etc/pacman.conf
+yay prism launcher
+yay -Syy
+yay prism launcher
+cd Downloads/
+ls
+unzip Future-Client-1.20.4.zip 
+la
+ls
+mkdir future
+mv Future* future
+ls
+rm Gucci* Zoom*
+mv Installer.jar future/
+cd future
+ls
+unzip Future-main.zip 
+cd Future-main/
+ls
+cat README.md 
+yay -S nemo
+man xdg-open 
+man xdg-settings
+xdg-settings set default-file-explorer nemo
+xdg-settings --list
+man xdg-mime
+xdg-mime query default
+xdg-mime query default url/file
+xdg-mime query default text/url
+z conf
+hx mimeapps.list 
+mimetype .
+yay -S mimetype
+xdg-mime query .
+xdg-mime query 
+xdg-mime query --help
+xdg-mime query filetype .
+hx mimeapps.list 
+xdg-open .
+cd ../..
+ls
+unzip futurepkg.zip 
+ls
+rm future future* loader-1.0.jar tweaker*
+rm future future* loader-1.0.jar tweaker* -r
+rm future future*  tweaker* -r
+clear
+ls
+mkdir minemods
+mv baritone* meteor* minemods
+ls
+cd minemods
+ls
+java --version
+java -version
+git clone https://github.com/cabaletta/baritone/
+cd baritone/
+git switch 1.21.4
+git pull
+./gradlew build
+ls
+d
+yay -S fd
+fd
+fd version.json
+^find -iname *.json
+ls
+ls dist
+neomutt
+cd
+sudo mount /dev/nvme0n1p2 /mnt
+sudo mount /dev/nvme0n1p3 /mnt/home
+cd /mnt/home/turtle
+ls
+mpv
+cl
+c
+cal
+nu -c cal
+cal --month 
+cal --month-names 
+cal --month-names | get month.1
+cal --month-names | get 1.month
+cal --month-names | get 1 | get month
+cal --month-names | select month
+cal --month-names | get month
+cal --month-names
+cal --month-names | where month = may
+cal --month-names | where month = "may"
+clear
+ls
+yay -S pass
+yay -S mutt wizard
+yay mutt wizard
+gpg --full-generate-key 
+ls ~
+ls ~ -a
+ls ~/.gnupg -a
+ls ~/.gnupg/public-keys.d -a
+pass
+gpg --list-keys 
+mw -a turtle@turtlemedicine.xyz
+pass init turtle@turtle.contact
+mw -a turtle@turtlemedicine.xyz
+mw --help
+neomutt
+mw -a turtleonline@turtlemedicine.xyz -i mail.turtlemedicine.xyz -s mail.turtlemedicine.xyz
+nm
+man nm
+mutt
+mut
+c
+neomutt
+cd
+hx .mbsyncrc 
+mw --help
+mw -l
+mw -T
+cronie
+cron
+crontab
+yay -S urlview abook-configdir pam-gnupg cronie
+yay -S abook-configdir 
+yay abook
+yay -S links
+links
+yay -Rs links --no-confirm
+yay --help
+yay -Rs links --noconfirm
+yay -S elinks --noconfirm
+elinks
+neomutt
+clear
+cd
+c
+ssh turtle@turtlemedicine.xyz
+cp /mnt/home/turtle/.ssh/ .ssh
+cp /mnt/home/turtle/.ssh/ .ssh -r
+ls
+ls -a
+ls .npm -a
+ls .npm/_logs -a
+rm .npm
+rm .npm -r
+ls
+ls -a
+hx .lesshst
+clear
+kitten ssh
+kitten ssh turtle@turtlemedicine.xyz
+ls .ssh
+hx
+ssh root@172.234.250.247
+exit
+neomut
+telnet
+yay -S telnet
+yay telnet
+yay -S inetutils
+telnet turtlemedicine.xyz
+telnet turtlemedicine.xyz 25
+telnet 172.234.250.247 25
+telnet 172.234.250.247 587
+ssh root@172.234.250.247
+neomutt
+clear
+cd `OneDrive/10th Grade/Bio/`
+ls
+ls -a
+mkdir GeneticsOfUs
+cd GeneticsOfUs/
+mkdir website
+cd website
+ls --full-paths 
+clear
+hx --health html
+yay -S superhtml
+hx --health css
+yay vscode css
+hx index.html
+crontab
+crontab -e
+mw -T
+crontab -e
+yay -S wlgreet
+yay wlgreet
+nmtui
+yay gtkgreet
+yay -S greetd
+systemctl enable --now greetd
+hx style.css
+exit
+sys users 
+yay -S cage
+tldr usermod
+yay -S usermod --noconfirm 
+yay -S tldr --noconfirm
+tldr usermod
+yay -S greetd-wlgreet-git
+cd /usr/share/wayland-sessions/
+ls
+hx hyprland-uwsm.desktop 
+man greetd
+man gtkgreet
+man 5 greetd
+man gtkgreet
+man wlgreet
+wlgreet
+yay -S greetd-wlgreet-git
+wlgreet
+man wlgreet
+wlgreet --help
+gtkgreet --help
+sudo hx /etc/greetd/config.toml 
+systemctl staus hyprpanel
+systemctl status hyprpanel
+systemctl status hyprpanel --use
+systemctl status hyprpanel --user
+systemctl enable --now hyprpanel --user
+systemctl status hyprpanel --user
+z user
+ls
+systemctl status hyprpaper
+systemctl status hyprpaper --user
+hx hyprpanel.service 
+hx clapboard.service 
+botp
+btop
+journalctl -xe --unit hyprpaper
+journalctl -xe --unit clapboard
+hyprpicker
+clear
+ls
+nmtui
+z nu
+^ssh root@turtlemedicine.xyz
+z nu
+hx config.nu 
+$env.ZELLIJ
+$env.IS_ZELLIJ
+uptime
+yay -S greetd-regreet-git
+hx /etc/greetd/config.toml 
+sudo hx /etc/greetd/config.toml 
+sudo hx /etc/greetd/regreet.toml
+hx ../hypr
+cd
+ls .local/share/themes
+ls /usr/share/themes/
+sudo hx /etc/greetd/regreet.toml 
+systemctl status hyprpanel --user
+systemctl disable hyprpanel --user
+z hypr
+hx hyprland.conf 
+hx autostart.conf 
+systemctl --user disable hyprpaper
+systemctl --user disable clapboard
+z user
+ls
+systemctl --user disable hypridle
+z hypr
+hx autostart.conf 
+z wall
+ls
+icat forest_stairs.jpg
+kitten icat forest_stairs.jpg
+ls /usr/share/hypr
+cp ./* /usr/share/wallpaper/
+mkdir /usr/share/wallpaper
+sudo mkdir /usr/share/wallpaper
+sudo cp ./* /usr/share/wallpaper/
+ls /usr/share/wallpaper/
+cd /usr/share/wallpaper/
+ls
+sudo rm wallpaper
+sudo ln -s forest_stairs.jpg wallpaper
+ls
+sudo hx /etc/greetd/regreet.toml 
+clera
+clear
+sudo hx /etc/greetd/regreet.toml 
+hx /var/log/regreet/log 
+regreet --demo
+sudo hx /etc/greetd/regreet.toml 
+regreet --demo
+cd /etc/greetd/
+regreet --demo
+regreet --demo -s regreet.css
+sudo hx regreet.css
+sudo rm regreet.css 
+exit
+z web
+ls
+hx *
+yay hugo
+git init
+git config --global init.defaultBranch main
+ls -a
+rm -r .git
+git init
+ls
+git add .
+git commit -Sm "initial commit"
+git commit -S -m "initial commit"
+yay github
+gh --help 
+gh auth
+z proj
+cd bombparty-cli/
+ls
+wc -l full.txt
+gh auth login
+git commit -S -m "initial commit"
+git config --global user.email "turtle@turtle.contact"
+git config --global user.name "Owen Wells"
+git commit -S -m "initial commit"
+cd
+ls
+ls -a
+cd .gnupg/
+ls
+cd public-keys.d/
+ls
+gpg --list-keys 
+gpg --help
+gpg --list-keys turtle@turtle.contact
+btop
+hypridle --help
+journalctl -xe | grep -i sleep
+systemd-inhibit --list
+ps -aux | grep -i sleep
+^ps aux | grep -i sleep
+systemctl --user list
+systemctl --user list-jobs
+systemctl --user status hypridle
+z conf
+z hypr
+loginctl lock-session
+systemd-inhibit --list
+man systemd-inhibit
+hx hypridle.conf 
+hx .
+systemctl --user enable --now hypridle
+systemctl --user status hypridle
+pkill hypridle
+systemctl --user status hypridle
+systemctl --user start hypridle
+systemctl --user status hypridle
+journalctl -xe | grep -i hypridle
+dbus
+dmesg
+sudo dmesg
+sudo dmesg | grep -i inhibit
+sudo dmesg | grep -i sleep
+sudo dmesg | grep -i idle
+dbus-monitor 
+hypridle --version
+logind
+systemctl status logind
+yay -S logind
+yay logind
+systemd-logind
+man systemd-logind
+systemctl status systemd-logind
+yay vpn
+dbus-monitor 
+hypridle
+brightnessctl 
+brightnessctl --help
+hx .
+systemctl restart hypridle
+systemctl restart hypridle --user
+systemctl status --user hypridle
+hx .
+systemctl restart hypridle --user
+hx hypridle.conf 
+systemctl restart hypridle --user
+gpg --edit-key turtle@turtle.contact
+cd
+gpg --export-secret-subkeys -a | save private_subkeys.asc
+hx private_subkeys.asc 
+gpg --export -a | save public_key.asc
+hx public_key.asc 
+gpg --list-keys turtle@turtle.contact
+gpg --list-keys 
+gpg --help
+gpg --list-keys --keyid-format long
+git config --global user.signingkey 7B37A2D41E59E726
+git config --global commit.gpgsign true
+open public_key.asc | wl-copy
+gpg --armor --export A699F2AE86798785
+gpg -a --export A699F2AE86798785
+hx public_key.asc 
+gpg -a --export turtle@turtle.contact
+rm public_key.asc
+gpg -a --export A699F2AE86798785 | save public_key.asc
+hx private_subkeys.asc 
+gpg --export-secret-subkeys -a A699F2AE86798785 | save private_subkeys.asc
+gpg --export-secret-subkeys -a A699F2AE86798785 | save private_subkeys.asc -
+gpg --export-secret-subkeys -a A699F2AE86798785 | save private_subkeys.asc -f
+yay -Qi nemo
+ls /mnt
+cd /run/user/1000/gvfs/sftp:host=192.168.1.50,user=turtle/mnt/Pool/Nas/AirVPN/
+ls
+cd ..
+ls
+cd
+ln -s /run/user/1000/gvfs/sftp:host=192.168.1.50,user=turtle/mnt/Pool/Nas nas/
+ln -s /run/user/1000/gvfs/sftp:host=192.168.1.50,user=turtle/mnt/Pool/Nas nas
+ls
+cd nas
+ls
+cd ..
+ls
+cp public_key.asc private_subkeys.asc nas
+open public_key.asc | wl-copy
+yay onepassword cli
+yay 1password cli
+man ya
+man yay
+yay 1password cli
+cd Downloads/
+unzip -d op op_linux_amd64_v2.31.0.zip 
+cd opn
+cd op
+ls
+gpg --keyserver keyserver.ubuntu.com --receive-keys 3FEF9748469ADBE15DA7CA80AC2D62742012EA22<\n>gpg --verify op.sig op
+cp op ~/.local/bin
+op --version
+sudo groupadd onepassword-cli
+sudo chgrp onepassword-cli ~/.local/bin/op && \<\n>sudo chmod g+s ~/.local/bin/op
+sudo chgrp onepassword-cli ~/.local/bin/op;<\n>sudo chmod g+s ~/.local/bin/op
+yay 1password
+op vault list
+"allow-preset-passphrase" o>> ~/.gnupg/gpg-agent.conf
+op get item "GPG password"
+op item get "GPG password"
+op item get "GPG password" --reveal
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password
+gpg-preset-password
+gpg-preset-passphrase
+ls /usr/lib/gnupg/
+/usr/lib/gnupg/gpg-preset-passphrase --help
+gpg --list-secret-keys --with-keygrip
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password | /usr/lib/gnupg/gpg-preset-passphrase --preset E6EC1627215E8439FA43EB989C5793F69A4D9A79
+hx ~/.gnupg/gpg-agent.conf 
+gpg-connect-agent reloadagent /bye
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password | /usr/lib/gnupg/gpg-preset-passphrase --preset E6EC1627215E8439FA43EB989C5793F69A4D9A79
+z nu
+hx config.nu 
+op signin my
+op signin
+yay -Qs polkit
+hx env.nu 
+git commit -m "inital commit"
+exit
+exit
+man sudo
+systemctl status polkit
+yay gnome keyring
+systemctl enable --now gnome-keyring-daemon
+gnome-keyring 
+gnome-keyring --help
+gnome-keyring-daemon --help
+systemctl enable --now gnome-keyring-daemon --user
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password
+z hy
+hx .
+botp
+btop
+sudo hx /usr/bin/mailsync 
+mailsync
+network-manager-applet
+yay network manager applet
+network-manager-applet
+nm-applet 
+hx .config/nushell/env.nu 
+cd
+exit
+p00p0nmyK1X!
+hx .config/nushell/env.nu 
+sudo hx /etc/pam.d/system-local-login 
+sudo hx /etc/pam.d/hyprlock 
+sudo hx /etc/pam.d/system-local-login 
+hx .gnupg/gpg-agent.conf 
+gpg-connect-agent --no-autostart reloadagent /bye
+ff
+fastfetch
+clear
+yay -S howdy
+cd proj
+git clone https://github.com/boltgolt/howdy
+cd howdy/
+ls
+meson setup build
+meson compile -C build
+git checkout aef35b526e4fef082f4bbfd6ffb5cbbc520ff629
+meson setup build
+meson compile -C build
+cd ..
+mkdir bedrock
+cd bedrock
+wget <\n>https://github.com/bedrocklinux/bedrocklinux-userland/releases/download/0.7.30/bedrock-linux-0.7.30-x86_64.sh
+http get https://github.com/bedrocklinux/bedrocklinux-userland/releases/download/0.7.30/bedrock-linux-0.7.30-x86_64.sh
+http get https://github.com/bedrocklinux/bedrocklinux-userland/releases/download/0.7.30/bedrock-linux-0.7.30-x86_64.sh | brl.sh
+http get https://github.com/bedrocklinux/bedrocklinux-userland/releases/download/0.7.30/bedrock-linux-0.7.30-x86_64.sh | save brl.sh
+ls
+sudo sh ./brl.sh --hijack
+brl 
+brl list
+brl fetch ubuntu
+sudo brl fetch ubuntu
+sudo brl enable ubuntu
+sudo add-apt-repository ppa:boltgolt/howdy
+brl list
+spt
+apt
+sudo apt --help 
+man apt 8
+sudo add-apt-repository ppa:boltgolt/howdy
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:boltgolt/howdy
+apt modernize-sources
+sudo apt modernize-sources
+sudo apt update
+sudo apt install howdy
+sudo brl fetch fedora
+brl update
+sudo brl update
+gcc -v
+yay -S gcc 13
+yay gcc 13
+yay -S howdy-beta-git
+brl report brl.log
+ls
+ping google.com
+nmtui
+yay -S nm-connection-editor
+nm-connection-editor 
+yay -Rs network-manager-applet 
+yay -S nm-connection-editor
+pkill nm-applet 
+z hy
+sudo howdy add
+sudo howdy config
+yay -S nano
+yay -S webcamoid
+webcamoid
+ls /dev/v4l/by-path/
+ls /dev/video1
+ls /dev/
+yay -S powertop
+sudo powertop
+clear
+ffmpeg -f video4linux2 -s 640x480 -i /dev/video0 -ss 0:0:2 -frames 1 /tmp/out.jpg
+ls /tmp
+kitten icat /tmp/out.jpg
+clear
+ffmpeg -f video4linux2 -s 640x480 -i /dev/video1 -ss 0:0:2 -frames 1 /tmp/out.jpg
+ffmpeg -f video4linux2 -s 640x480 -i /dev/video2 -ss 0:0:2 -frames 1 /tmp/out.jpg
+kitten icat /tmp/out.jpg
+clear
+rm /tmp/out.jpg
+clear
+sudo howdy config
+sudo howdy add
+sudo howdy --help
+sudo hx /etc/pam.d/hyprlock 
+sudo hx /etc/pam.d/sudo 
+sudo hx /etc/pam.d/greetd 
+sudo hx /etc/pam.d/system-local-login 
+sudo howdy test
+hx .config/hypr/hyprland.conf
+man sudo
+sudo -i
+sudo
+sudo -s
+man sudo
+sudo -ks
+howdy test
+sudo howdy test
+sudo QT_QPA_PLATFORM=wayland howdy test
+sudo QT_QPA_PLATFORM=offscreen howdy test
+sudo QT_QPA_PLATFORM=xcb howdy test
+hx /usr/lib/howdy/cli.py 
+hx /usr/lib/howdy/cli/test.py 
+pyqt
+python3 -m pip --help
+pip
+pip list
+ls /usr/lib/howdy/ --all 
+ls /usr/lib/howdy/cli --all 
+sudo howdy-gtk test
+yay -S python-elevate
+sudo howdy-gtk test
+yay -S python-opencv-headless
+yay python open cv headless
+yay -S python-opencv-python-headless
+yay -S opencv-python-headless
+pip install opencv-python-headless
+yay -S python3-opencv-python-headless
+yay opencv python
+yay xinerama
+pyqt5
+yay pyqt
+sudo howdy test
+nmtui
+hx .local/bin/wsudo
+chmod +x .local/bin/wsudo
+wsudo howdy test
+yay xhost
+wsudo howdy test
+wsudo "howdy test"
+hx .config/hypr/hyprlock.conf 
+sudo howdy
+man howdy
+gedit
+hx .local/bin/wsudo
+sudo hx /etc/pam.d/astal-auth 
+sudo hx /etc/pam.d/system-auth 
+cd /etc/pam.d/
+ls
+grep -r "1password" /etc/pam.d/
+which 1password 
+grep "pam" /usr/bin/1password
+hx /usr/bin/1password
+strings /usr/bin/1password
+strings /usr/bin/1password | /etc
+strings /usr/bin/1password | grep "/etc"
+strings /usr/bin/1password | grep "system"
+strings /usr/bin/1password | grep "system" | grep "auth"
+ldd /usr/bin/1password
+strings /usr/bin/1password | grep "fingerprint"
+npm
+npm install asar
+yay asar
+yay -Ql 1password 
+cd /opt
+ls
+cd 1Password/
+ls
+fd
+cd resources/
+ls
+cd app.asar.unpacked/
+ls
+hx index.node 
+cd ..
+asar extract app.asar app
+cd
+cd proj
+asar extract /opt/1Password/resources/app.asar app
+cd app
+ls
+grep -rn pam
+grep -rn "/etc/pam"
+grep -rn "system auth"
+ls
+file index.node
+strings index.node | grep "auth"
+strings index.node | grep "pam"
+clear
+strings index.node | grep "/etc"
+ldd index.node
+journalctl -xe | grep 1password
+journalctl -xe | grep 1Password
+journalctl -xe | grep pam
+gpg_cache 
+hx 1075.js 
+cat *.js | grep pam
+hx 1
+rg "system auth"
+rg "system authentication service"
+man rg
+rg "system authentication service" -i
+rg "settings" -i
+cd /opt/1Password/
+ls
+find . -name "*.json" -o -name "*.yaml" -o -name "*.conf"
+^find . -name "*.json" -o -name "*.yaml" -o -name "*.conf"
+yay ghidra
+yay polkit hyprland
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password
+systemctl restart polkit.service 
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password
+cd /etc/pam.d/
+ls
+cd ..
+ls
+cd pam.d
+ls
+systemctl enable --now hyprpolkitagent
+systemctl enable --now hyprpolkitagent --user
+op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password
+clear
+nmtui
+cd
+ls
+cd Downloads/
+ls
+hc Home.ovpn
+hx Home.ovpn
+ping turtlemedicine.tplinkdns.com 
+nmtui
+ping google.com
+ping 1.1.1.1
+ping google.com
+dnsdomainname --help
+dnsdomainname 
+dns
+key.dns_resolver 
+ping archlinux.org
+nmtui
+ls
+z nu
+hx env.nu 
+sudo hx /etc/polkit-1
+sudo hx /etc/pam.d/sudo 
+sudo hx /etc/pam.d/hyprlock 
+wsudo "howdy test"
+exit
+sudo -ks
+yay -S ffmpeg-python
+yay -S python3-ffmpeg
+yay ffmpeg python
+wsudo "howdy test"
+wsudo "howdy test"
+sudo hx /etc/pam.d/hyprlock 
+yay -S inkscape
+z hist
+z 10
+z History/
+ls
+cd `Gay Shark Tank/`
+ls
+z hy
+hx keybinds.conf 
+hyprpicker
+hx keybinds.conf 
+z down
+unzip -d fatkat fat_kat.zip 
+cd fatkat/
+ls
+#mv `Fat Kat - (Demo) hanscostudio.com.ttf` ~/.local/share/
+mkdir ~/.local/share/fonts
+mv `Fat Kat - (Demo) hanscostudio.com.ttf` ~/.local/share/fonts/
+cd ~/.local/share/fonts/
+ls
+mv `Fat Kat - (Demo) hanscostudio.com.ttf` Fat_Kat.ttf
+cp Fat_Kat.ttf /usr/share/fonts
+sudo cp Fat_Kat.ttf /usr/share/fonts
+ping 1.1.1.1
+ping google.com
+nmtui
+ping 192.168.1.50
+systemctl restart NetworkManager.service 
+sudo -ks
+systemctl status freedesktop.resolve1
+systemctl status org.freedesktop.resolve1
+systemctl status systemd-resolved
+journalctl -xe | grep resolved
+yay -S openresolv
+systemctl enable --now systemd-resolved
+ping google.com
+cd ../hypr/
+ls
+hx autostart.conf 
+yay -S openresolv cliphist
+cliphist
+cliphist list
+"test" | cliphist
+"test" | cliphist store
+cliphist list
+nmtui
+z hy
+hx keybinds.conf 
+cd ../clapboard/
+ls
+# cliphist list | rofi -dmenu -p "clip" | cliphist decode | wl-copy
+yay -Ql cliphist
+cliphist list | rofi -dmenu -p "clip" | cliphist decode | wl-copy
+cd
+cd .local/share/scripts
+mkdir .local/share/scripts
+cd .local/share/scripts
+hx cliphist-rofi-img
+z hy
+hx .
+z scrip
+ls
+hx config.toml 
+cliphist list | rofi -dmenu -p "clip" | cliphist decode | wl-copy
+"cliphist list | rofi -dmenu -p 'clip' | cliphist decode | wl-copy" | wl-copy
+hx cliphist-launch
+chmod +x ./*
+ls
+yay -Rs clapboard
+which clapboard
+yay -Rs clapboard-git clapboard-git-debug 
+cd ..
+rm -r clapboard/
+ls
+clear
+hx keybinds.conf 
+uwsm app -- wl-paste --watch cliphist store
+hyprctl dispatch exec uwsm app -- wl-paste --watch cliphist store
+wl-paste --watch
+wl-paste --watch echo
+man wl-clipboard 
+wl-paste --watch printf
+wl-paste --watch printf --
+wl-paste --watch printf -- --
+wl-paste --watch echo
+btop
+btop
+killall wl-copy
+btop
+wl-paste --watch echo
+hyprctl dispatch exec "wl-paste --watch cliphist store"
+btop
+cd hypr/ls
+cd hypr/
+ls
+hx autostart.conf 
+hx names.md
+z Down
+ls
+unzip -d royalacidbath royal_acidbath.zip 
+cd royalacidbath/
+ls
+cat readme.txt 
+sudo cp *.ttf /usr/share/fonts/
+nmtui
+clear
+exit
+exit
+hx cliphist-launch
+exit
+exit
+nmtui
+yay -S readest
+sudo hx /bedrock/etc/bedrock.conf 
+ls /usr/share/zoneinfo/
+ls /usr/share/zoneinfo/America/Los_Angeles
+hx /usr/share/zoneinfo/America/Los_Angeles
+tzinfo
+timedatectl set-timezone America/Los_Angeles
+timedatectl
+systohc
+touchpad-edge-detector 
+sudo hx /etc/NetworkManager/dispatcher.d/09-timezone
+ls /etc/NetworkManager/dispatcher.d/
+sudo chmod +x /etc/NetworkManager/dispatcher.d/09-timezone
+ls /etc/NetworkManager/dispatcher.d/
+nmtui
+wg 
+wg --help
+man wg
+yay wireguard
+systemctl enable --now wireguard-ui
+systemctl disable wireguard-ui
+hx desthink.md
+wireguird
+wireguard-ui 
+cd nas
+ls
+nmtui
+cd nas
+ls
+which nas
+which ./nas
+ls -la nas
+cd /run/user/1000/gvfs/sftp:host=192.168.1.50,user=turtle/mnt/Pool/Nas
+cd nas
+ls
+cd nas
+ls
+mkdir ../Documents/AirVPN
+cd ..
+mkdir Documents/AirVPN
+ls Documents/AirVPN/
+ls Documents/AirVPN/ -a
+ping 192.168.1.50
+rm nas
+ls
+wireguird
+wsudo wireguird
+yay -S polkit-gnome
+wireguird
+sudo -i
+sudo --help
+pkexec
+hx .local/bin/wsudo
+wsudo wireguird
+hx .local/bin/wsudo
+wsudo wireguird
+pkexec .local/bin/wsudo wireguird
+yay -Rs wireguard-ui wireguird
+yay -Rs wireguard-ui-bin wireguird
+wg-systray 
+yay -Rs wg-systray
+yay -Rs wg-systray wg-systray-git-debug 
+yay -Rs wg-systray-git wg-systray-git-debug 
+ls
+clera
+clear
+ls
+yay -S wg-easy
+cat /etc/os-release 
+strat ubuntu cat /etc/os-release 
+man strat
+man brl
+brl 
+brl strat --help
+strat ubuntu "cat /etc/os-release"
+sudo apt install cat
+sudo apt install base-devel
+sudo apt install dev
+sudo apt install helix
+sudo apt install hx
+sudo apt install neovim
+ls /etc/apt
+ls /bedrock/strata/ubuntu/etc/
+brl --help
+brl apply
+sudo brl apply
+sudo brl repair ubuntu 
+apt
+strat ubuntu "cat /etc/os-release"
+ls /bedrock/strata/ubuntu/etc/
+strat ubuntu cat /etc/os-release
+strat ubuntu curl
+strat ubuntu sh
+tzinfo
+iz
+tz
+time
+time now
+date list-timezone 
+date now | date to-timezone 
+date now | date to-timezone utc
+timedatectl
+timedatectl set-timezone America/Los_Angeles
+ls /etc/NetworkManager/dispatcher.d/
+curl --fail http://ipapi.co/timezone
+ip addr
+yay -S tzupdate --noconfirm
+tzupdate
+sudo tzupdate
+brl which /etc/localtime
+brl strat arch sudo tzupdate
+ls /etc
+clear
+brl strat arch sudo tzupdate --help
+brl which /etc/timezone
+tzupdate -p
+sudo hx /etc/NetworkManager/dispatcher.d/09-timezone 
+sudo sh /etc/NetworkManager/dispatcher.d/09-timezone 
+$env.TZ
+cat /bedrock/etc/localtime
+date
+^date
+man timedatectl
+man 5 localtime
+z hy
+hx hyprland.conf 
+$env.TZ = "America/Los_Angeles"
+timedatectl
+sudo timedatectl
+sudo timedatectl set-timezone America/Los_Angeles
+timedatectl
+timedateclt
+timedatectl
+rm /etc/NetworkManager/dispatcher.d/09-timezone
+sudo rm /etc/NetworkManager/dispatcher.d/09-timezone
+yay -S ulauncher
+systemctl enable --now --user ulauncher
+hx .config/ulauncher/settings.json 
+systemctl restart --now --user ulauncher
+ulauncher-toggle
+systemctl disable --user --now ulauncher
+systemctl stop --user ulauncher
+ulauncher
+yay -S --noconfirm
+yay -S --noconfirm anyrun
+yay -S --noconfirm anyrun-git
+ping chaotic.cx
+yay -Syy
+yay -S --noconfirm anyrun-git
+anyrun
+ls .config
+ls .config/gazatu.xyz/
+rm -r .config/gazatu.xyz/
+hx .config/anyrun
+mkdir .config/anyrun
+hx .config/anyrun/config.ron
+anyrun
+ls /usr/local/share
+strat arch ls /usr/local/share
+strat arch anyrun
+anyrun
+yay ueli
+ueli
+yay -Rs ueli
+yay backslash
+pkill backslash
+uwsm app -- backslash
+hx .config/hypr/hyprland.conf
+backslash
+watch hyprctl clients
+watch {hyprctl clients}
+^watch hyprctl clients
+backslash
+yay -Qi backslash
+yay -S --noconfirm wox-bin
+wox
+yay -Rs wox-bin backslash ueli-debug
+yay -S albert --noconfirm
+albert
+pkill alber
+albert
+hx .config/albert/config 
+albert
+clera
+clear
+cd .confg
+cd .config
+l
+sls
+ls
+xterm
+nmtui
+nc
+yay -S netca
+yay -S netcat
+nc
+man echo
+echo
+echo --help
+"toggle" | nc -U ~/.cache/albert/ipc_socket
+^echo "toggle" | nc -U ~/.cache/albert/ipc_socket
+^echo -n "toggle" | nc -U ~/.cache/albert/ipc_socket
+albert --help
+albert
+hyprctl dispatch exec "albert"
+cd .config
+ls
+cd albert
+ls
+hx config
+hx /usr/share/albert/widgetsboxmodel/themes/Everforest.qss
+sudo hx /usr/share/albert/widgetsboxmodel/themes/Everforest.qss
+^echo -n "toggle" | nc -U ~/.cache/albert/ipc_socket
+^echo "toggle" | nc -U ~/.cache/albert/ipc_socket
+^echo -n "report" | nc -U ~/.cache/albert/ipc_socket
+albert --help
+albert --help-all
+man albert
+hx .config/hypr/windowrules.conf 
+hx
+factorial(9.3)
+yay -Rs ulauncher
+hx ".config/albert/snippets/Email sig.txt" 
+systemctl stop --user swww-daemon
+systemctl stop swww-daemon
+yay -Rs swww
+yay -S bluex
+yay -S bluez
+bluez
+bluemoon --help
+bluemoon
+bluetooth-player 
+bluetoothctl --help
+systemctl enable --now bluetooth.service
+mailsync
+mw -T
+crontab -e
+mailsync
+sudo hx /etc/pam.d/
+hx .gnupg/gpg-agent.conf 
+bluez
+bluetoothctl --help
+bluetoothctl show
+bluetoothctl --help
+bluetoothctl con
+bluetoothctl mgmt.con
+bluetoothctl --monitor
+bluetoothctl
+bluetoothctl devices Connected
+hx .local/bin/blautokill
+chmod +x .local/bin/blautokill 
+crontab -e
+bluetoothctl power off
+bluetoothctl power on
+bluetoothctl power off
+if ((bluetoothctl devices Connected | str trim) == "") {<\n>    # If the output is empty, no devices are connected.<\n>    bluetoothctl power off<\n>}<\n>
+hx .local/bin/blautokill
+z genetic
+ls
+cd website
+ls
+exit
+yay -S blender
+exit
+yay blender
+exit
+exit
+exit
+cd ..
+ls
+unzip -d heads free-head-base-meshes-for-sculpting.zip 
+yay pencil2d
+yay -S opentoonz
+yay native messenger tridactyl
+yay tridactyl
+exit
+xsel
+xpaste
+yay -S firefox
+yay -Rs firefox
+z conf
+ls
+mkdir tridactyl
+cd tridactyl/
+hx tridactylrc
+mkdir themes
+hx themes/everforest.cs
+hx themes/everforest.css
+z proj
+git clone https://github.com/albertlauncher/python
+mv python albert-python
+cd albert-python/
+ls
+z conf
+z albert/
+ls
+hx config
+exit
+exit
+yay -S ttf-font-awesome
+cd ../kitty
+ls
+hx kitty.conf 
+cd
+hx /usr/share/fontconfig/conf.default/
+cd /usr/share/fontconfig/
+rg "<match>"
+hx conf.avail/35-lang-normalize.conf 
+exit
+sudo hx /usr/share/albert/widgetsboxmodel/themes/Everforest.qss
+fc-list
+fc-list :charset=f10c
+👋
+yay -S noto-fonts-emoji-apple
+ping google.com
+yay emoji apple
+kitty --config=NONE --debug-font-fallback
+man kitty
+kitty --config=NONE --debug-font-fallback
+hyprpanel restart
+z albert-py
+ls
+z proj
+cd bombparty-cli/
+cargo run
+hx .
+ls
+clear
+ls air
+ls aur
+hx aur/__init__.py 
+mkdir color_convert
+hx color_convert/__init__.py
+cd ..
+rm albert-python/
+rm albert-python/ -e
+rm albert-python/ -r
+git clone https://github.com/TurtleMeds/albert-python-plugins
+cd albert-python-plugins/
+ls
+mkdir color_convert
+sudo hx /usr/share/albert/widgetsboxmodel/themes/Everforest.qss
+exit
+hx color_convert/__init__.py
+z cache
+cd
+cd .cache/
+ls
+cd albert/
+ls
+mkdir -p python/plugins
+mkdir python/plugins
+mv ~/proj/albert-python-plugins/ python/
+cd python
+rm plugins/
+mv albert-python-plugins/ plugins
+ls
+cd ..
+mv python ~/.local/share/albert/
+rm ~/.local/share/albert/python/plugins/
+rm ~/.local/share/albert/python/plugins/ -r
+cp python/plugins/ -r ~/.local/share/albert/python
+ls
+rm python --recursive 
+cd ~/.local/share/albert/
+ls
+cd python
+ls
+ls plugins
+cd plugins/
+ls
+hx README.md 
+hx albert.pyi 
+diff color/__init__.py color_convert/
+diff color/__init__.py color_convert/ --color 
+hx color_convert/__init__.py
+ls
+hx .
+hx color_convert/__init__.py 
+cd color_convert/
+mv __init__.py bak.py
+hx __init__.py
+rofi -show drun
+cd ..
+hx index.html 
+z albert
+z albert-py
+z plugins
+mv __init__.py bak1.py
+mv bak.py __init__.py
+hx __init__.py 
+ls
+ls ../ -a
+cd ../..
+ls
+ls venv
+./venv/bin/activate
+hx venv/bin/activate 
+ls venv
+ls venv/include/
+ls venv/bin
+bash
+cd plugins/color_convert/
+ls
+rm bak1.py
+ls __pycache__/
+hx __init__.py 
+hx --health python
+yay -S uv
+yay -Syy
+yay -S uv
+clear
+uv
+uv run
+z helix
+z conf
+cd helix/
+ls
+hx languages.toml
+yay -S basedpyright
+hx albert.pyi 
+hx __init__.py 
+uv 
+uv add ruff
+uv run pip install ruff
+uv init
+uv add --dev ruff
+hx __init__.py 
+hx languages.toml
+yay -Rs basedpyright
+uv add --dev basedpyright
+hx languages.toml
+hx --health python
+hx languages.toml
+hx albert.pyi 
+hx __init__.py 
+uv run pyright --stdio
+uv run basedpyright --stdio
+uv run basedpyright --usage
+uv run basedpyright --help
+uv run basedpyright 
+hx __init__.py 
+uv run basedpyright --watch
+hx languages.toml
+uv run basedpyright-langserver --stdio
+hx __init__.py 
+ls ..
+ls ../..
+ls
+hx pyproject.toml 
+cd ..
+ls
+cd ..
+ls
+cd plugins/color_convert/
+hx pyproject.toml 
+hx __init__.py 
+uv rm ruff
+yay -S ruff
+hx __init__.py 
+uv run basedpyright-langserver --stdio
+hx pyproject.toml 
+hx __init__.py 
+ls ..
+ls
+ln -s ../albert.pyi albert.pyi
+hx __init__.py 
+uv run python3
+uv add colour
+uv run python3
+hx color.py
+ls
+hx languages.toml
+hx __init__.py 
+cd ../dice_roll/
+ls
+cd ..
+hx __init__.py 
+cd ..
+ls
+ls emoji
+hx color/__init__.py 
+cd ../..
+ls
+cd ..
+ls /var/local/
+ls /var
+systemctl --user list
+systemctl --user list-jobs
+uwsm --help
+uwsm aux -h
+albert
+cd ^
+albert
+hyprctl dispatch exec "uwsm app -- albert"
+cd ..
+mkdir css_named_colors
+hx css_named_colors/__init__.py
+rg Action | less
+hx wikipedia/__init__.py 
+hx emoji/__init__.py 
+hx albert.pyi 
+ydotool
+yay -S ydotool
+sudo usermod -aG input turtle
+ydotool --help
+man ydotool
+keyd --help
+man ydotool
+ydotool 29:1 47:1 29:0 47:0
+hx /usr/include/linux/input-event-codes.h
+ydotool 29:1 47:1 29:0 47:0
+ydotool key 29:1 47:1 29:0 47:0
+systemctl enable ydotoold
+man ydotool
+systemctl enable ydotoold --user
+man ydotoold
+ydotool key 29:1 47:1 29:0 47:0
+man ydotool
+$env.YDOTOOL_SOCKET
+man ydotool
+$env.YDOTOOL_SOCKET = "/tmp/.ydotool_socket"
+ydotool key 29:1 47:1 29:0 47:0
+ls -la /tmp/.ydotool_socket
+tldr chown 
+^ls -l /tmp/.ydotool_socket 
+man ydotood
+man ydotoold
+sudo chown turtle: /tmp/.ydotool_socket
+ydotool key 29:1 47:1 29:0 47:0
+sudo chown root:input /tmp/.ydotool_socket
+ydotool key 29:1 47:1 29:0 47:0
+sudo usermod -aG input turtle
+ls -la /tmp/.ydotool_socket
+ls -l /tmp/.ydotool_socket
+sudo chown turtle:input /tmp/.ydotool_socket
+ydotool key 29:1 47:1 29:0 47:0
+hx emoji/__init__.py 
+ydotool type hello
+ydotool key 29:1 47:1 29:0 47:0
+hx /usr/include/linux/input-event-codes.h
+ydotool key 29:1 42:1 47:1 47:0 42:0 29:0
+ydotool type 👋
+hx emoji/__init__.py 
+ydotool type 👋
+ydotool type "👋"
+ydotool type "hello"
+ydotool key 29:1 42:1 47:1 47:0 42:0 29:0
+ydotool type "hello"
+man ydotool 
+sudo ydotoold
+$env.YDOTOOL_SOCKET = null
+ydotool type "hello"
+sudo ydotoold --dir /run/user/1000/
+man ydotoold
+sudo ydotoold -p /run/user/1000/
+ydotool type "hello"
+ls /run/user/1000/
+ls /run/user/1000/.ydotool_socket -l
+man ydotoold
+ydotoold --help
+sudo ydotoold -p /run/user/1000/.ydotool_socket
+cat /etc/passwd
+groups 
+groups --all
+groups --help
+sudo ydotoold -p /run/user/1000/.ydotool_socket -o turtle:input
+ydotool type "hello"
+ydotool key 29:1 47:1 47:0 29:0
+sudo ydotoold -p /run/user/1000/.ydotool_socket -o 1000:1000
+systemctl enable ydotoold.service.in
+systemctl enable ydotoold.service
+systemctl enable --user ydotool
+hx /home/turtle/.config/systemd/user/default.target.wants/ydotool.service 
+ydotoold
+hx /home/turtle/.config/systemd/user/default.target.wants/ydotool.service 
+systemctl start --user ydotool
+systemctl status --user ydotool
+systemctl enable --user ydotool --now
+systemctl status --user ydotool
+systemctl enable ydotool --now
+yay -Ql ydotool
+hx /usr/lib/udev/rules.d/80-uinput.rules
+id -i
+id -u
+id -g
+sudo ln -s /usr/lib/systemd/user/ydotool.service /etc/systemd/system/
+systemctl enable ydotool --now
+systemctl status  ydotool
+systemctl status  ydotool --user
+systemctl disable ydotool --user
+sudo hx /etc/systemd/system/ydotool.service 
+z hy
+hx hyprland.conf 
+sudo hx /etc/systemd/system/ydotool.service 
+sudo systemctl restart ydotoold
+sudo systemctl restart ydotool
+systemctl daemon-reload ydotool
+systemctl daemon-reload 
+sudo systemctl restart ydotool
+exit
+exit
+man ydotool
+exit
+exit
+exit
+z plugins
+ls
+hx kill/__init__.py 
+rg shell
+rg command
+hx albert.pyi 
+wl-copy "👋"
+hx albert.pyi 
+rg runDetachedProcess
+hx emoji/__init__.py 
+ls /usr/lib64/albert/
+cd ../../l
+cd ../../
+ls
+cd ../../
+mkdir lib64/albert
+ls
+cd ..
+z proj
+git clone https://github.com/albertlauncher/plugins albert-plugins
+cd albert-plugins/
+ls
+cd clipboard/
+ls
+hx src/plugin.cpp 
+cd ..
+rg runDetachedProcess
+hx clipboard/src/plugin.cpp 
+cd ..
+rm -r albert-plugins/
+git clone https://github.com/albertlauncher/albert-plugin-clipboard
+cd albert-plugin-clipboard/
+ls
+hx src/plugin.cpp 
+ls i18n/
+ls i18n/clipboard_de.ts
+cmake
+make
+cat CMakeLists.txt 
+cd ..
+git clone --recursive https://github.com/albertlauncher/albert.git
+cd albert
+cd plugins/clipboard/src/
+hx plugin.cpp 
+cd ../../../..
+cd alber
+cd albert
+cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug<\n>cmake --build build<\n>cmake --install build
+yay cmake
+cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug<\n>cmake --build build<\n>cmake --install build
+hash -r
+^hash -r
+hash --help
+bash
+cd ..
+yay -S libqalculate python python-pip qt6-base qt6-declarative qt6-5compat qt6-scxml qt6-shadertools qt6-svg
+yay -S python-pip
+yay -S libqalculate cmake make gcc qt6-tools
+cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug<\n>cmake --build build<\n>cmake --install build
+exit
+hx emoji/__init__.py 
+exit
+cd proj
+cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug<\n>cmake --build build<\n>cmake --install build
+bash
+z albert/
+ls
+ls plugins
+ls plugins/clipboard/
+ls
+ls lib
+cd ..
+ls
+mv build/ albert/build
+cd albert
+cd build
+ls
+ls plugins
+ls plugins/clipboard/
+ls plugins/clipboard/clipboard_autogen/
+ls plugins/clipboard/clipboard_autogen/EWIEGA46WW/
+ls plugins/clipboard/clipboard_autogen/UVLADIE3JM/
+ls
+ls bin
+ls lib
+cp lib/clipboard.so ~/.local/lib64/albert/clipboard.so
+ydotool type "👋"
+ydotool type "cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug<\n>cmake --build build<\n>cmake --install build"
+cmake -B build -S albert -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Debug
+$env.CMAKE_ROOT
+cd ..
+hx plugins/clipboard/src/plugin.cpp 
+cd ..
+mv albert/build/ build/
+bash
+cd build
+cp lib/clipboard.so ~/.local/lib64/albert/clipboard.so
+hyprctl dispatch exec "uwsm app -- albert"
+hx plugins/clipboard/src/plugin.cpp 
+rg hasPaste
+rg hasPasteSupport
+rg havePasteSupport
+hx src/util/albert.cpp 
+hx plugins/clipboard/src/plugin.cpp 
+git diff
+cd plugins/clipboard/
+git diff
+cd ../..
+hx plugins/clipboard/src/plugin.cpp 
+cd plugins/clipboard/
+git diff
+hx src/plugin.cpp 
+git diff
+hx src/plugin.cpp 
+git diff
+cd ..
+git remote set-origin https://github.com/TurtleMeds/albert
+git remote show origin
+git remote rm origin
+git remote add https://github.com/TurtleMeds/albert
+git remote add origin https://github.com/TurtleMeds/albert
+git add .
+git commit -m "added ydotool support"
+ydotool --help
+ydotoold -p $env.HOME/.ydotool.sock
+ydotoold -p ~/.ydotool.sock
+sudo chmod +s ydotool
+sudo chmod +s $"(which ydotool)"
+sudo chmod +s $"(^which ydotool)"
+ydotoold -p ~/.ydotool.sock
+hx src/util/albert.cpp 
+cd ..
+ls
+bash
+cd build
+ls
+ls bin
+./bin/albert
+cd ..
+cd albert
+hx src/util/albert.cpp 
+./../build/bin/albert
+hx src/util/albert.cpp 
+bash ..
+bash 
+./../build/bin/albert
+sh -c "sleep 0.1 && ydotool key 29:1 42:1 47:1 47:0 42:0 29:0"
+sleep 3; sh -c "sleep 0.1 && ydotool key 29:1 42:1 47:1 47:0 42:0 29:0"
+sleep 3sec; sh -c "sleep 0.1 && ydotool key 29:1 42:1 47:1 47:0 42:0 29:0"
+hx src/util/albert.cpp 
+git diff
+git commit -m "more concise comment"
+git add .
+git commit -m "more concise comment"
+man git squash
+man git-squash
+man git
+git reset --soft HEAD~2
+git commit -m "added ydotool support"
+git log
+git push
+git push --set-upstream origin main
+yay -S wtype
+wtype 👋
+wtype -M ctrl v -m ctrl
+wtype -M ctrl -M shift v -m shift -m ctrl
+neomutt
+mailsync
+hx $"(which mailsync)"
+hx $"(^which mailsync)"
+mailsync
+neomutt
+wtype --help
+man wtype
+wtype
+xdotool
+yay -S gnome
+uwsm select
+xdotool type hello
+yay -S xdotool
+xdotool type hello
+xdotool key h
+ext
+exit
+z albert
+hx src/util/albert.cpp 
+git add .
+git commit -m "added wtype support"
+git push
+bash 
+hx src/util/albert.cpp 
+git reset --soft HEAD~1
+git log
+git add .
+git commit -m "added wtype support"
+git push
+git log
+git commit --force
+git push --force
+wlrctl
+yay -S wlrctl
+wlrctl
+wlrctl keyboard type V modifiers CTRL SHIFT
+wlrctl keyboard type V modifiers CTRL
+man wlrctl
+wlrctl keyboard type hello
+wlrctl keyboard type hello
+wlrctl keyboard type v modifiers CTRL
+man wlrctl
+wlrctl keyboard type v modifiers CTRL,SHIFT
+hx src/util/albert.cpp 
+git add .
+cd ..
+bash
+cd albert
+hx src/util/albert.cpp 
+bash 
+git diff
+git add .
+git commit -m "added wlrctl support"
+git log
+git commit --edit acef651b1dd62bed3a9a148079b5e9ffdffe3a91
+git commit --edit 
+man git-commit
+git commit --fixup reword acef651b1dd62bed3a9a148079b5e9ffdffe3a91
+man git-commit
+git commit --fixup reword:acef651b1dd62bed3a9a148079b5e9ffdffe3a91
+git log
+git reset HEAD~1
+git log
+git diff
+git push
+xdotool key h
+hx src/util/albert.cpp 
+git add . 
+git commit -m "fixed ordering of paste backends"
+git push
+hx --health cpp
+clangd
+hx src/util/albert.cpp 
+cd src/util
+ld
+ls
+cd ..
+ls
+cd ..
+fd albert.h
+hx src/main.cpp 
+clangd --help
+hyprctl dispatch exec "uwsm app -- albert"
+z gay
+clear
+hx src/main.cpp 
+hx src/util/albert.cpp 
+ls
+hx metatool.py 
+ls cmake
+ls src
+ls -a
+hx .clang-format 
+hx .gitignore 
+hx LICENSE.md 
+pgrep
+pkgfile $"(^which pgrep)"
+yay -Qo pgrep
+yay -Qi procps-ng
+pgrep --help
+pgrep -a ydotoold
+pgrep -ax ydotoold
+pgrep -ax ydotool
+pgrep -a ydotool
+pgrep -ax ydotoold
+ydotoold --help
+pgrep -ax ydotoold | sed -s "/ /\n/g"
+pgrep -ax ydotoold | sed -s "/ /\\n/g"
+man sed
+pgrep -ax ydotoold | sed -e "s/ /\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( |=)/\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( |\=)/\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( |\\=)/\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/ /\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/ /\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s|=)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\w|=)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s|\\=)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\s|\\=)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s\\|\\=)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s\|\\=)/\\n/g"
+man sed
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s\|\\=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s\|=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s|=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( |=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(' '|'=')/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(run|do)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(run|do)/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( run|do )/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/( run | do )/\\n/g"
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(run|do)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/run/\\n/g" -E
+man ydotoold
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\s|=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s|=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/\(\\s|=\)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -e "s/(\\s|=)/\\n/g" -E
+"363128 /usr/bin/ydotoold -p /run/ydotool.sock -o 1000:1000" | sed -E "s/(\\s|=)/\\n/g"
+ydotoold
+hx expenses.md
+wlrctl keyboard type v
+wlrctl keyboard type "Hello, World"
+ydotool type "hello"
+ydotool type "hello" --help
+ydotool type "hello" -d 1
+wlrctl window focus zen-browser
+wlrctl window focus zen
+hyprctl clients
+hyprctl
+hyprctl splash
+hyprctl rollinglog
+exit
+hyprctl rollinglog
+hyprctl client
+hyprctl clients
+yay libei
+yay -Si libei
+yay -Sii libei
+yay albert
+man yay
+yay -S albert
+yay albert
+man yay
+yay albert --editmenu
+cd .cache/yay/albert-git/
+ls
+git describ
+git describe
+man git-describe
+z albert
+z proj/albert
+git remote add upstream https://github.com/albertlauncher/albert
+git fetch upstream --tags
+bash
+git push --all origin
+git push --tags origin
+yay -S albert-git --editmenu
+pkill albert
+hyprctl dispatch exec "uwsm app -- albert"
+wtype "hello"
+ydotool type "hello" -d 1
+wlrctl keyboard type "Hello, World"
+cd ..
+git clone https://aur.archlinux.org/albert-git.git
+cd albert-git/
+hx PKGBUILD 
+git add .
+git log
+git diff 88f1a42ae2c64d019397520084f42ccaae6de078
+git diff d7800e6176b5ae2e9d8564a46c1fcc2bbe80f2a5
+ls
+ls -a
+hx .SRCINFO 
+makepkg --help
+hx PKGBUILD 
+cd ..
+cd albert
+	git describe --long --tags --abbrev=7 | sed 's/\([^-]*-g\)/r\1/;s/-/./g;s/v//'
+cd ../albert-git/
+hx PKGBUILD 
+neomutt
+xdotool key h
+xdotool key hello
+xdotool type "Hello, World"
+hyprsunset --help
+hyprsunset -g
+hyprsunset -t 6000
+btop
+hyprsunset --help
+man hyprsunset
+z hy
+hx keybinds.conf 
+z proj
+mkdir autopaste
+cd autopaste
+ls
+c
+bash
+path exists ydotool
+"ydotool" | path exists
+$"(^which ydotool)" | path exists
+$"(which ydotool)" | path exists
+which ydotool | path exists
+which ydotool | get 1 | path exists
+which ydotool 
+which ydotool | get path | path exists
+which ydotool | get 0.path | path exists
+which ydotool ydotoold
+which woeiru ydotool nvcnado ydotoold
+which woeiru 
+which xdotool ydotool wlrctl wtype | get path | path exists
+$env.XDG_CURRENT_DESKTOP
+$env.XDG_CURRENT_DESKTOP | str downcase
+$env.WM_NAME
+$env.DESKTOP_SESSION
+uname
+uname -a
+uname -h
+uname
+fastfetch
+./autopaste.nu
+chmod +x autopaste.nu 
+./autopaste.nu
+"ydotool" | str contains "do"
+[1 2 3] | list contains 1
+[1 2 3] | where {|x| $x == 2}
+[1 2 3] | where {|x| $x == 4}
+[1 2 3] | where {|x| $x == 4} | not nothing
+[1 2 3] | where {|x| $x == 4} != nothing
+([1 2 3] | where {|x| $x == 4}) != nothing
+([1 2 3] | where {|x| $x == 4}) != empty
+([1 2 3] | where {|x| $x == 4}) != null
+([1 2 3] | where {|x| $x == 4}) != ""
+([1 2 3] | where {|x| $x == 4}) != none
+([1 2 3] | where {|x| $x == 4} | get 1) != null
+([1 2 3] | where {|x| $x == 4} | get 0) != null
+[1 2 3] | where {|x| $x == 4} | is-empty
+[1 2 3] has 3
+hx autopaste.sh
+cd 
+ping https://10.82.48.11/
+ping 10.82.48.11
+yay wpilib
+z down
+ls
+tar -xzvf WPILib_Linux-2025.3.2.tar.gz 
+cd WPILib_Linux-2025.3.2/
+ls
+./WPILibInstaller
+z proj
+git clone https://github.com/ChainLynxRobotics/2025_Season
+exit
+zellij
+z nu
+hx config.nu 
+$env.VSCODE_PORTABLE
+hx env.nu 
+$env.OIUWERIU?
+$env.OIUWERIU? == null
+clear
+z proj
+cd 2025_Season/
+git switch develop-elevatorProfile
+git stash
+git switch develop-elevatorProfile
+rg setCurrentThreadPriority
+cd
+cd .cache/inkscape/
+ls
+ls --full-paths 
+xdotool type "Hello, World"
+$env.LAST_EXIT_CODE
+z web
+clear
+mv graphic-1.svg cell-division.svg
+z hy
+hx hypridle.conf 
+z mastermind
+ls
+man zip
+yay -S zip
+man zip
+man wf-recorder 
+z video
+z
+cd Videos/
+ls
+ls -a
+wf-recorder --help
+ffmpeg -muxers
+wf-recorder -f test.mp4
+ls
+mpv test.mp4 
+yay -S mpv
+yay mpv
+ls --full-paths 
+z script
+ls
+hx record
+chmod +x record
+z hy
+hx keybinds.conf 
+hyprctl clients
+z vid
+ls
+rm test.mp4
+mv 05-27-2025-14:03:09.mp4 test.mp4
+cp test.mp4 `~/OneDrive/10th Grade/CSA/code/mastermind/`
+z mastermind
+ls
+yay
+yay -S mpv
+ls
+z mastermind
+ls
+mkdir "Last First Spring Project"
+#cp FLOWCHART.png test.mp4 src/* `Last First Spring Project/`
+cd src
+ls
+rm Main.java
+ls
+cd ..
+ls
+hx Makefile 
+rm Makefile
+ls
+ls out
+ls out/production/
+ls
+cp FLOWCHART.png test.mp4 src/* `Last First Spring Project/`
+zip -r `Last First Spring Project.zip` `Last First Spring Project`
+zip
+man zip
+zip --help
+^zip -r `Last First Spring Project.zip` `Last First Spring Project`
+ls
+man zip
+clear
+inkview zoom-in.svg
+hx index.html 
+z 2025
+clear
+git switch develop
+git log
+clear
+git log
+git switch develop-elevatorProfile
+git log
+git switch develop
+git log
+git reset --hard cd7d6305feb55148fa77faf58232b6ea40ba9422
+git log
+git push --force
+git status
+clear
+git switch develop-elevatorProfile
+git log
+git switch develop
+git log
+git switch develop-elevatorProfile
+git push --force
+git log
+ping 192.168.1.50
+z doc
+z
+z Documents/
+ls
+cd AirVPN/
+ls
+hx US-Atlanta-Georgia_Hercules.conf 
+str replace --help
+nvim
+yay -S neovim
+nvim
+nvim .
+bash -c 'git clone --depth=1 https://github.com/stevearc/oil.nvim.git "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/pack/oil/start/oil.nvim'
+nvim
+nvim .
+z conf
+mkdir nvim
+hx nvim/init.lua
+ls
+ls | each {|x| $x}
+ls | each {|x| $x.name}
+ls | each {|x| printf $x.name}
+ls | each {|x| bash -c $"echo ($x.name)"}
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+nvim .
+cd ..
+rm -r AirVPN/
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+cd AirVPN/
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+nmtui
+nmcli con list
+nmcli con --hel
+nmcli con --help
+nmcli con show
+nmcli con delete 05416567-60de-4387-bf12-e5a5c66afaab
+nmcli con delete 6ed73b1e-ee0b-4af9-b386-f989fc800ae7
+nmcli con delete BG-Sofia_Wazn
+nmcli con show
+ls
+nvim .
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+nmcli con show
+ls
+nmcli con show
+nmcli con show | detect columns 
+nmcli con delete ATViennaBeemim
+nmcli con delete ATViennaCaelum
+nmcli con delete BGSofiaApus
+nmcli con delete BGSofiaGrus
+nmcli con delete BGSofiaWazn
+nmcli con delete BRSaoPauloFulu
+nmcli con list
+nmcli con show
+ls | each {|x| mv $x.name ($x.name | str downcase)}
+ls
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+nmcli con import type wireguard fiel lkv
+nmcli con import type wireguard file ussanjosecaliforniaimai.conf
+nmcli con import type wireguard file ./ussanjosecaliforniaimai.conf
+nmcli con import type wireguard file ./ussanjosecaliforniaimai
+ping 192.168.1.50
+cd ..
+ping 192.168.1.50
+cd turtle/Documents/AirVPN/
+ls
+nvim .
+clear
+ls | each {|x| nmcli connection import type wireguard file $x.name}
+hyprctl dispatch exec "uwsm app -- albert"
+albert
+pkill albert
+albert
+nmtui
+albert
+coredumpctl info | less
+nmtui
+hyprctl dispatch exec "uwsm app -- albert"
+z albert
+ls
+cd plugins/vpn/
+ls
+cd src
+ls
+hx xdg/plugin.cpp 
+hx plugin.h
+ls --du 
+du
+ls amc
+ls mac
+z
+du
+yay du dust
+dust
+s
+ls
+ls -a
+ls .gradle
+ls .gradle -du
+ls .gradle --du
+z albert
+gh sync
+git pull --help
+git fetch upstream
+git merge upstream/main
+hx src/util/albert.cpp 
+ls
+hx src/util/albert.cpp 
+rg paste
+hx src/util/systemutil.cpp 
+git add .
+git rm --cached plugins/mpris
+ls plugins/mpris
+# git commit -m "moved functions to 
+ls /src/util
+ls
+ls src/util
+git commit -m "moved system functions to systemutil.cpp"
+git merge upstream/main
+git status
+git push
+exig
+z down
+ls
+clear
+unzip -d poppins Poppins.zip 
+cd poppins/
+cp *.ttf ~/.local/share/fonts/
+hyprctl dispatch exec "uwsm app -- albert"
+coredumpctl info 
+coredumpctl info | wl-copy
+hx family-tree.dot
+dot -Tsvg finch-family.dot -o finch-family.svg
+dot -Tsvg family-tree.dot -o family-tree.svg
+z web
+clear
+hx family-tree.dot
+dot -Tsvg family-tree.dot -o family-tree.svg
+hyprctl dispatch exec "uwsm app -- albert"
+nmtui
+hyprctl dispatch exec "uwsm app -- albert"
+yay -S telegram
+yay telegram
+nemo
+z hy
+hx key
+hx keybinds.conf 
+coredumpctl info
+coredumpctl info | wl-copy
+z doc
+coredumpctl info | save coredump.log
+coredumpctl info
+hyprctl dispatch exec "uwsm app -- albert"
+sudo apt install pandoc
+yay -S pandoc
+systemctl status dbus
+sudo brl fetch void
+sudo apt remove packagekit
+sudo apt autoremove
+sudo apt install pandoc
+pandoc
+manpandoc
+man pandoc
+cd ../../../LitComp/
+pandoc -s -o `Book Club Essay Outline.md` `Book Club Essay Outline.docx`
+ls
+hx "Book Club Essay Outline.md" 
+open `Book Club Essay Outline.md` | wl-copy
+clear
+yay -S watershot
+nmtui
+hyprctl dispatch exec "uwsm app -- albert"
+hyprctl dispatch exec "telegram-desktop"
+yay -S watershot
+yay watershot
+yay -S shotman
+shotman
+shotman --help
+shotman -c reigon
+shotman -c riegon
+shotman -c region
+RUST_BACKTRACE=1 shotman -c region
+RUST_BACKTRACE=full shotman -c region
+shotman --version
+WAYLAND_DEBUG=1 shotman --copy --capture output -vdebug
+fastfetch
+neofetch
+neowofetch
+yay -Rs shotman
+grim
+ls
+slurp
+grim -g $"(slurp)"
+z phot
+cd ../Pictures/
+ls
+yy
+yazi
+nemo
+ls
+ls Screenshots/
+hx /usr/share/hyprpanel/scripts/snapshot.sh
+which grimblast
+hx /usr/bin/grimblast
+man trap
+bash -c man trap
+bash -c "man trap"
+hx /usr/bin/grimblast
+grimblast
+grimblast copy area
+wev
+yay -S wev
+wev
+z hy
+wev
+clear
+grimblast -h
+grimblast check
+man grimblast
+hx /usr/share/hyprpanel/scripts/snapshot.sh 
+hx keybinds.conf 
+grimblast area copysave
+grimblast copysave are
+grimblast copysave area
+pkill hyprpanel
+killall hyprpanel
+btop
+hyprpanel
+hx /usr/share/hyprpanel/scripts/snapshot.sh 
+hx hyprland.conf 
+GRIMBLAST_HIDE_CURSOR=1 grimblast copysave area
+hx hyprland.conf 
+exit
+exit
+hx index.html 
+hx index.html 
+exit
+exit
+exit
+exit
+hyprctl dispatch exec inkscape
+z gst
+z gay
+clear
+ls --full-paths 
+hyprctl dispatch exec onlyoffic
+hyprctl dispatch exec onlyoffice
+hyprctl dispatch exec onlyoffice-desktopeditors 
+hx
+z cli
+z bombparty
+bash
+hyprctl dispatch exec albert
+hx full.txt 
+hyprctl dispatch exec albert
+c
+cc
+c
+z web
+yay -S gimp
+inst
+z nu
+hx config.nu 
+yay parcel
+parcel 
+man parcel
+parcel -h
+parcel --help
+parcel serve index.html
+ls
+ls dist
+parcel -h
+parcel help build
+ls dis
+ls dist
+zip --help
+^zip -r GeneticsOfUs.zip dist/*
+man zip
+parcel help build
+yay -Rs parcel
+yay -Rs parcel-bundler 
+yay -S webpack
+yay webpack
+webpack --help
+man webpack
+webpack
+npm install -D webpack-cli
+webpack-cl
+webpack-cli
+webpack
+yay -Rs webpack
+yay -Rs nodejs-webpack 
+yay gulp grun
+yay gulp 
+gulp --help
+gulp 
+npm install gulp
+gulp
+npm remove gulp webpack-cli
+hx index.html 
+hx inline.py
+python3 inline.py
+hx inline.py
+python3 inline.py
+ls
+hx index_embedded.html 
+hx inline.py
+rm index_embedded.html
+python3 inline.py
+rm index_embedded.html
+hx inline.py
+python3 inline.py
+hx index_embedded.html 
+rm index_embedded.html
+python3 inline.py
+ls
+open evolutionary-tree.png | encode base64 | wl-copy
+open human-neandrethal-denisovan.jpg | encode base64 | wl-copy
+hx index_embedded.html 
+pandoc -s -o GeneticsOfUs.pdf index_embedded.html
+sudo apt install pdflatex
+yay pdflatex
+pandoc --pd-enging
+pandoc --pd-engine
+pandoc --pdf-engine
+pandoc --pdf-engine --help
+yay -S typst
+pandoc -s -o GeneticsOfUs.pdf index_embedded.html
+pandoc -s -o GeneticsOfUs.pdf index_embedded.html --pdf-engine=typst
+pandoc -s -o GeneticsOfUs.pdf index.html --pdf-engine=typst
+mv `natural selection.svg` `natural_selection.svg`
+hx index.html 
+pandoc -s -o GeneticsOfUs.pdf index.html --pdf-engine=typst
+ls
+open index_embedded.html | wl-copy
+inst beeper
+nvim index_embedded.html 
+hc index_embedded.html
+hx index_embedded.html 
+hx index.html 
+hx family-tree.dot
+dot -Tsvg family-tree.dot -o family-tree.svg
+inkscape family-tree.svg 
+hx index.html 
+cd ../../../Robotics/
+ls
+onlyoffice-desktopeditors `Version Control in FRC.pptx`
+hx test.txt
+sleep 5sec; open test.txt | ydotool type
+sleep 5sec; ydotool type $"(open test.txt)"
+z mastermind
+hyprctl dispatch exec albert
+^zip -r `Last First Spring Project.zip` "../../worksheets/Spring Project Rubric.xlsx" 
+^zip -h
+yay ark
+^zip -r `Last First Spring Project.zip` `Last First Spring Project`
+rm `Last First Spring Project/Spring Project Rubric.xlsx`
+cp `../../worksheets/Spring Project Rubric.xlsx` `Last First Spring Project/`
+^zip -r `Last First Spring Project.zip` `Last First Spring Project`
+clear
+yay goldendict
+yay -s ladybird
+yay -S ladybird
+yay -S ladybird-git
+yay -Syy
+yay -S ladybird-git
+nmtui
+z
+ls
+fd test.txt
+z robotics
+sleep 5sec; ydotool type $"(open test.txt)"
+hx test.txt
+sleep 5sec; ydotool type $"(open test.txt)"
+hx test.txt
+sleep 5sec; ydotool type $"(open test.txt)"
+hx test.txt
+sleep 5sec; ydotool type $"(open test.txt)"
+cd ../..
+fd *.svg
+fd *.svg --glob
+z down
+ls
+nmtui
+yay onedrive
+yay -Syy
+yay -S onedrive-abraunegg
+onedrive 
+onedrive --help
+cd ..
+onedrive --syncdir OneDrive/ -s --dry-run
+onedrive --syncdir OneDrive/ -s
+onedrive --syncdir OneDrive/ --resync
+onedrive --syncdir OneDrive/ --resync --sync
+onedrive --syncdir OneDrive/ --dry-run --sync
+onedrive --syncdir OneDrive/ --resync --sync
+cp OneDrive/ OneDrive.bak/ --mkdir -r
+mkdir OneDrive.bak/
+cp OneDrive/ OneDrive.bak/ -r
+onedrive --help
+onedrive --syncdir OneDrive/ --resync --sync
+wtype --help
+wtype -h
+wtype
+man wtype
+man wlrctl
+ydotool --help
+ydotool type --help
+nmtui
+sudo usermod -a -G dialout
+sudo usermod -a -G dialout turtle
+lsusb
+yay -S lsusb
+ls /dev
+ping 1.1.1.1
+nmtui
+systemctl status NetworkManager
+ping 1.1.1.1
+ping 192.168.1.1
+ping 192.168.0.1
+systemctl restart NetworkManager.service 
+ping 1.1.1.1
+nmtui
+nmcli con list
+nmcli con --help
+nmcli con show
+nmcli con --help
+nmcli con down *
+#nmcli con down $"(nmcli con list)"
+nmcli con show
+nmcli con --help
+nmcli con down id *
+nmcli con down uuid $"(nmcli con show | detect columns | select UUID)"
+clear
+nmcli con list | detect columns | select UUID
+nmcli con show | detect columns | select UUID
+nmcli con show | detect columns | select UUID | each {|x| nmcli con down $x}
+nmcli con show | detect columns | get UUID | each {|x| nmcli con down $x}
+nmcli con list --help
+nmcli con show --help
+nmcli con show --active | detect columns | get UUID | each {|x| nmcli con down $x}
+nmtui
+ping 1.1.1.1
+ping google.com
+nmtui
+systemctl restart NetworkManager.service 
+nmtui
+man NetworkManager 
+nmtui
+man dialout
+dialout
+help dialout
+ls /dev/ttyACM*
+ls /dev/tty*
+ls /dev/tty* -larf
+ls /dev/tty* -la
+sudo usermod -h
+sudo usermod -r G dialout
+sudo usermod -r G dialout turtel
+sudo usermod -r G dialout turtle
+sudo usermod -r -G dialout turtle
+sudo usermod -a -G uucp turtle
+ping 1.1.1.1
+nmcli con down
+nmcli con down --all
+nmcli con down --help
+nmcli con show 
+nmcli con
+nmcli con --help
+nmcli con show | detect columns | where TYPE == wireguard # | get uuid | each {|x| nmcli con delete $x}
+nmcli con show | detect columns | where TYPE == wireguard | get uuid | each {|x| nmcli con delete $x}
+nmtui
+ping 1.1.1.1
+ping google.com
+ping 8.8.8.8
+systemctl restart NetworkManager.service 
+nmtui
+ping 1.1.1.1.1
+ping 1.1.1.1
+ping google.com
+nmtui
+ping google.com
+ping 1.1.1.1
+systemd-resolve --help
+systemctl restart systemd-resolved.service 
+systemctl status systemd-resolved
+ping google.com
+hyprpanel restart
+man visudo
+nmtui
+yay -S usbutils
+lsusb
+nmtui
+neomutt
+ping cabinmc.duckdns.org
+pavucontrol
+pwvucontrol
+bluemam
+blueman
+bluemoon
+bluetoothctl show
+cd proj
+git clone https://github.com/GraphiteEditor/Graphite.git
+cd Graphite/
+ls
+hx deny.toml 
+yay
+date
+date now
+cal
+cal --month --full-year 
+cal --month-names --full-year 
+cal --month-names --full-year 1
+scrcpy
+yay -s scrcpy
+yay
+sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com<\n>sudo pacman-key --lsign-key 3056513887B78AEB
+sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst'<\n>sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+yay
+sudo pacman-key --recv-key D6C9442437365605 --keyserver keyserver.ubuntu.com
+sudo pacman-key --lsign-key D6C9442437365605
+sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+yay
+yay --noconfirm
+yay -Rdd linux-firmware
+yay -syu linux-firmware
+yay -Syu linux-firmware
+yay zoom
+neomutt
+z hypr
+hx keybinds.conf 
+yay -S lynx
+systemctl status systemd-resolved
+systemctl restart systemd-resolved
+yay stremio
+ping google.com
+ping 1.1.1.1
+systemctl restart systemd-resolved; systemctl restart NetworkManager.service 
+nmtui
+ping 1.1.1.1
+yay cups
+yay -S cups-browsed
+systemctl status cups
+systemctl enable --now cups
+yay brother printer
+yay brother L2350DW
+systemctl restart cups
+yay sream
+yay steam
+yay -S steam-runtime
+yay steam runtime
+hx /etc/pacman.conf
+sudo hx /etc/pacman.conf
+yay -Syy
+yay steam runtime
+yay proton ge
+protonup
+cat /var/log/wordplay.log
+yay wine
+yay -Syu
+adb
+yay android
+adb
+adb devices
+adb restart
+adb 
+adb -d
+adb devices -l
+adb shell sh /storage/emulated/0/data/moe.Shizuku.privileged.api/start.sh
+adb devices -l
+adb server
+lsusb
+adb kill-server
+killall adb
+adb start-server
+sudo adb start-server
+adb shell sh /storage/emulated/0/data/moe.Shizuku.privileged.api/start.sh
+sudo adb shell sh /storage/emulated/0/data/moe.Shizuku.privileged.api/start.sh
+adb devices
+adb kill-server
+adb start-server
+run0
+nmtui
+cd .config
+cd ..
+mkdir dotfiles
+cd .config
+cd dotfiles
+ls
+ln -s ../.config/albert albert
+ls
+ls albert
+git init
+git status
+rm albert
+ls
+cp ../.config/albert
+cp ../.config/albert .
+cp ../.config/albert . -r
+ls
+ls albert
+cat albert/config
+clear
+rm ../.config/albert -r
+ln -s albert ../.config/albert
+ls
+anyrun
+epiphany 
+ls hg
+ls gh
+clear
+ls gh
+exit
+cd .config
+cd ..
+cd .config
+ls
+ls gh
+cat gh/config.yml 
+cat gh/hosts.yml 
+ls
+cp ../.config/helix . -r<\n>rm ../.config/helix -r<\n>ln -s helix ../.config/helix
+keybindings list 
+keybindings default 
+exit
+z dot
+yay
+keybindings listen 
+hx
+rm albert
+ln -s /home/turtle/dotfiles/albert /home/turtle/.config/albert
+ls
+rm helix
+ln -s /home/turtle/dotfiles/helix /home/turtle/.config/helix
+ls
+cp -r /home/turtle/.config/hypr /home/turtle/dotfiles/hypr<\n>rm -r /home/turtle/.config/hypr<\n>ln -s /home/turtle/dotfiles/hypr /home/turtle/.config/hypr
+cp -r /home/turtle/.config/hyprpanel /home/turtle/dotfiles/hyprpanel<\n>rm -r /home/turtle/.config/hyprpanel<\n>ln -s /home/turtle/dotfiles/hyprpanel /home/turtle/.config/hyprpanel
+ls
+cp -r /home/turtle/.config/kitty /home/turtle/dotfiles/kitty<\n>rm -r /home/turtle/.config/kitty<\n>ln -s /home/turtle/dotfiles/kitty /home/turtle/.config/kitty
+cp -r /home/turtle/.config/nushell /home/turtle/dotfiles/nushell<\n>rm -r /home/turtle/.config/nushell<\n>ln -s /home/turtle/dotfiles/nushell /home/turtle/.config/nushell
+cp -r /home/turtle/.config/zellij /home/turtle/dotfiles/zellij<\n>rm -r /home/turtle/.config/zellij<\n>ln -s /home/turtle/dotfiles/zellij /home/turtle/.config/zellij
+ls
+cp -r /home/turtle/.config/rofi /home/turtle/dotfiles/rofi<\n>rm -r /home/turtle/.config/rofi<\n>ln -s /home/turtle/dotfiles/rofi /home/turtle/.config/rofi
+ls gtk-4.0/
+ls gtk-3.0/
+ls gtk-4.0/assets
+ls
+cp /home/turtle/.config/hyfetch.json /home/turtle/dotfiles/hyfetch.json<\n>rm /home/turtle/.config/hyfetch.json<\n>ln -s /home/turtle/dotfiles/hyfetch.json /home/turtle/.config/hyfetch.json
+ls
+hx hyfetch.json 
+ls menus
+hx --help
+ln --help
+echo "# dots" | save README.md
+ls
