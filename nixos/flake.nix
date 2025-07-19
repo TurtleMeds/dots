@@ -10,7 +10,7 @@
   let
     lib = nixpkgs.lib;
   in {
-    nixosConfigurations.home = {
+    nixosConfigurations.home = lib.nixosSystem {
       system = "x86_64-linux";
       modules = [ ./configuration.nix ];
     };
