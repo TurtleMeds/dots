@@ -1,11 +1,11 @@
-{ config, lib, pkgs, ...}
+{ config, lib, pkgs, ...}:
 
 {
   imports = [
     # paths to other modules
   ];
 
-  option = {
+  options = {
     keyd.enable = lib.mkEnableOption "enables keyd";
   };
 
@@ -13,7 +13,7 @@
     services.keyd = {
       enable = true;
       keyboards.default = {
-        ids = [ "*" "-303a:8253:1288843f" ];
+        ids = [ "*" "-303a:8253:65bd1f84" ];
         extraConfig = ''
           [main]
 
@@ -50,7 +50,7 @@
           j = down
           k = up
           l = right
-        ''
+        '';
       };
     };
   };

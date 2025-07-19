@@ -119,8 +119,6 @@
   };
 
   keyd.enable = true;
-  services.flatpak.enable = true;
-
   services.gnome.gnome-keyring.enable = true;
   services.flatpak.enable = true;
   services.printing.enable = true;
@@ -218,6 +216,7 @@
     wl-clipboard
     gnupg
     pinentry-gnome3
+    keyd
   ];
 
   fonts.packages = with pkgs; [
