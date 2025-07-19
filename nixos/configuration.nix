@@ -8,6 +8,7 @@
   imports =
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
+      ./modules/keyd.nix
     ];
 
   boot = {
@@ -119,9 +120,9 @@
     variant = "";
   };
 
+  keyd.enable = true;
   services.flatpak.enable = true;
 
-  # Enable CUPS to print documents.
   services.printing.enable = true;
 
   # Enable sound with pipewire.
