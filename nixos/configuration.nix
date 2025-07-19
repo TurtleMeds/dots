@@ -97,13 +97,11 @@
     package = config.boot.kernelPackages.nvidiaPackages.stable;
   };
 
-  # Enable the X11 windowing system.
-  # You can disable this if you're only using the Wayland session.
-  services.xserver.enable = true;
-
-  # Enable the KDE Plasma Desktop Environment.
-  services.displayManager.sddm.enable = true;
-  # services.desktopManager.plasma6.enable = true;
+  services.displayManager.sddm = {
+    enable = true;
+    wayland.enable = true;
+  };
+  
   programs.hyprland = {
     enable = true;
     xwayland.enable = true;
@@ -123,9 +121,10 @@
   keyd.enable = true;
   services.flatpak.enable = true;
 
+  services.gnome.gnome-keyring.enable = true;
+  services.flatpak.enable = true;
   services.printing.enable = true;
-
-  # Enable sound with pipewire.
+  
   services.pulseaudio.enable = false;
   security.rtkit.enable = true;
   services.pipewire = {
@@ -150,6 +149,7 @@
     description = "Owen Wells";
     extraGroups = [ "networkmanager" "wheel" "dialout" "tty"];
     shell = pkgs.nushell;
+    
     packages = with pkgs; [
       gruvbox-kvantum
     ];
@@ -216,6 +216,8 @@
     hyprsunset
     hypridle
     wl-clipboard
+    gnupg
+    pinentry-gnome3
   ];
 
   fonts.packages = with pkgs; [

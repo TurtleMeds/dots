@@ -3806,3 +3806,21 @@ hx --help
 ln --help
 echo "# dots" | save README.md
 ls
+git pull
+hx nixos/configuration.nix 
+git add nixos/configuration.nix
+git rebase --continue
+hx nixos/configuration.nix 
+git rebase --continue
+git add nixos/configuration.nix
+git rebase --continue
+git status
+git rebase --continue
+git rebase --edit-todo
+git rebase --continue
+hx nixos/configuration.nix 
+git status
+git add nushell/history.txt
+git rebase --continue
+hx nushell/history.txt 
+git status
