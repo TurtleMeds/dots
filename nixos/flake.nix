@@ -3,7 +3,7 @@
   description = "Central configuration flake";
 
   inputs = {
-    nixpkgs.url = "nixpkgs/25.05";
+    nixpkgs.url = "nixpkgs/nixos-25.05";
   };
   
   outputs = { self, nixpkgs, ... }:
