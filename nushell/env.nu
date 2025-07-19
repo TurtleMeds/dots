@@ -17,11 +17,11 @@
 # You can remove these comments if you want or leave
 # them for future reference.
 
-def gpg_cache [] {
-  gpg-connect-agent /bye o+e> /dev/null
-  ~/.local/bin/op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password | /usr/lib/gnupg/gpg-preset-passphrase --preset E6EC1627215E8439FA43EB989C5793F69A4D9A79
-}
-job spawn { gpg_cache }
+# def gpg_cache [] {
+#   gpg-connect-agent /bye o+e> /dev/null
+#   ~/.local/bin/op item get qz6ij6klkjaxch3vwoilfsqzs4 --reveal --fields password | /usr/lib/gnupg/gpg-preset-passphrase --preset E6EC1627215E8439FA43EB989C5793F69A4D9A79
+# }
+# job spawn { gpg_cache }
 
 use std/util "path add"
 $env.IN_TTY = false

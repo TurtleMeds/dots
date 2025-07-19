@@ -18,7 +18,7 @@
 # them for future reference.
 
 alias c = clear
-alias ff = bash -c "hyfetch -b fastfetch --args '--config examples/13' --ascii-file ~/.local/share/ascii"
+alias ff = bash -c "hyfetch -b fastfetch --args '--config examples/13'"
 alias shutdown = systemctl poweroff
 alias wifi = nmtui
 alias v = ^hx
