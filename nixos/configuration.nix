@@ -8,7 +8,7 @@
   imports =
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
-      ./modules/keyd.nix
+      ./system/keyd.nix
     ];
 
   boot = {
@@ -232,7 +232,12 @@
   fileSystems."/mnt/nas" = {
     device = "//192.168.1.50/Nas";
     fsType = "cifs";
-    options = [ "username=turtle" "password=zwUWRFTFjyXVJZ6AdL6g" "x-systemd.automount" "noauto" ];
+    options = let
+      # These automount options prevent hanging on network issues
+      automount_opts = "x-systemd.automount,noauto,x-systemd.idle-timeout=60,x-systemd.device-timeout=5s,x-systemd.mount-timeout=5s";
+    in [
+      "${automount_opts},username=turtle,password=zwUWRFTFjyXVJZ6AdL6g,uid=1000,gid=100,dir_mode=0755,file_mode=0644"
+    ];
   };
 
   # Some programs need SUID wrappers, can be configured further or are
