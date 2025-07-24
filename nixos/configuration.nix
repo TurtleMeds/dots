@@ -120,6 +120,7 @@
 
   keyd.enable = true;
   services.gnome.gnome-keyring.enable = true;
+  services.hypridle.enable = true;
   services.flatpak.enable = true;
   services.printing.enable = true;
   
@@ -212,7 +213,6 @@
     hyprpaper
     hyprlock
     hyprsunset
-    hypridle
     wl-clipboard
     gnupg
     pinentry-gnome3

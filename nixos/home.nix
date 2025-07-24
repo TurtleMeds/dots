@@ -3,6 +3,9 @@
 {
   imports = [
     ./user/hyprpanel.nix
+    ./user/hypridle.nix
+    ./user/hyprpaper.nix
+    ./user/hyprlock.nix
     zen-browser.homeModules.beta
   ];
   home.username = "turtle";
@@ -29,10 +32,19 @@
     #   org.gradle.console=verbose
     #   org.gradle.daemon.idletimeout=3600000
     # '';
+    ".config/hypr/hyprland.conf".source = ../hypr/hyprland.conf;
+    ".config/hypr/autostart.conf".source = ../hypr/autostart.conf;
+    ".config/hypr/input.conf".source = ../hypr/input.conf;
+    ".config/hypr/keybinds.conf".source = ../hypr/keybinds.conf;
+    ".config/hypr/windowrules.conf".source = ../hypr/windowrules.conf;
   };
 
   programs = {
     nushell = {
+      enable = true;
+    };
+
+    onlyoffice = {
       enable = true;
     };
 
@@ -42,6 +54,9 @@
   };
 
   hyprpanel.enable = true;
+  hypridle.enable = true;
+  hyprpaper.enable = true;
+  hyprlock.enable = true;
   
   # Home Manager can also manage your environment variables through
   # 'home.sessionVariables'. These will be explicitly sourced when using a
