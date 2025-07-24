@@ -4,6 +4,7 @@
 
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-25.05";
+    nixpkgsUnstable.url = "nixpkgs/nixos-unstable";
     home-manager = {
       url = "github:nix-community/home-manager/release-25.05";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -14,10 +15,11 @@
     };
   };
   
-  outputs = { self, nixpkgs, home-manager, zen-browser, ... }:
+  outputs = { self, nixpkgs, home-manager, zen-browser, nixpkgsUnstable, ... }:
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
+      pkgsUnstable = nixpkgsUnstable.legacyPackages.${system};
     in {
     nixosConfigurations.home = nixpkgs.lib.nixosSystem {
       inherit system;
@@ -29,6 +31,7 @@
       modules = [ ./home.nix ];
       extraSpecialArgs = {
         inherit zen-browser;
+        inherit pkgsUnstable;
       };
     };
   };

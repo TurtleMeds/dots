@@ -120,7 +120,6 @@
 
   keyd.enable = true;
   services.gnome.gnome-keyring.enable = true;
-  services.hypridle.enable = true;
   services.flatpak.enable = true;
   services.printing.enable = true;
   
@@ -159,15 +158,13 @@
       enable = true;
       pinentryPackage = pkgs.pinentry-gnome3;
     };
-    firefox.enable = true;
+
     steam.enable = true;
     steam.gamescopeSession.enable = true;
     gamemode.enable = true;
-    kdeconnect.enable = true;
   };
 
 
-  qt.style = "kvantum";
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
   nixpkgs.config.nvidia.acceptLicense = true;
@@ -178,41 +175,14 @@
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
-    vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
     wget
     helix
-    mangohud
-    protonup
-    ungoogled-chromium
-    orca-slicer
-    gimp
-    inkscape
-    kdePackages.kate
-    libsForQt5.qtstyleplugin-kvantum
     libsForQt5.qt5ct
-    albert
-    neomutt
-    mutt-wizard
-    qbittorrent
-    eddie
-    vesktop
-    zoom-us
-    thunderbird
-    ocs-url
-    hyprpanel
     zellij
     carapace
     fish
     zoxide
-    hyfetch
-    fastfetch
-    kitty
-    rofi
     git
-    gh
-    hyprpaper
-    hyprlock
-    hyprsunset
     wl-clipboard
     gnupg
     pinentry-gnome3

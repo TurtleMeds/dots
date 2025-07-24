@@ -1,4 +1,4 @@
-{ config, pkgs, zen-browser, ... }:
+{ config, pkgs, pkgsUnstable, zen-browser, ... }:
 
 {
   imports = [
@@ -16,8 +16,32 @@
   # release notes.
   home.stateVersion = "25.05";
 
-  home.packages = [
-  ];
+  home.packages = (with pkgs; [
+    mangohud
+    protonup
+    ungoogled-chromium
+    orca-slicer
+    gimp
+    inkscape
+    albert
+    neomutt
+    mutt-wizard
+    qbittorrent
+    eddie
+    vesktop
+    zoom-us
+    thunderbird
+    kitty
+    rofi
+    gh
+    hyprsunset
+    hyfetch
+    fastfetch
+  ])
+  ++
+  (with pkgsUnstable; [
+    helix
+  ]);
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
@@ -80,4 +104,7 @@
 
   # Let Home Manager install and manage itself.
   programs.home-manager.enable = true;
+
+  # Allow unfree packages
+  nixpkgs.config.allowUnfree = true;
 }
