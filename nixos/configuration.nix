@@ -168,10 +168,10 @@
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
   nixpkgs.config.nvidia.acceptLicense = true;
-  nixpkgs.config.permittedInsecurePackages = [
-    "dotnet-sdk-6.0.428"
-    "dotnet-runtime-6.0.36"
-  ];
+  # nixpkgs.config.permittedInsecurePackages = [
+  #   "dotnet-sdk-6.0.428"
+  #   "dotnet-runtime-6.0.36"
+  # ];
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
@@ -187,6 +187,7 @@
     gnupg
     pinentry-gnome3
     keyd
+    wev
   ];
 
   fonts.packages = with pkgs; [

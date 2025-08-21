@@ -1,4 +1,4 @@
-{ config, pkgs, pkgsUnstable, zen-browser, ... }:
+{ config, pkgs, zen-browser, ... }:
 
 {
   imports = [
@@ -16,7 +16,7 @@
   # release notes.
   home.stateVersion = "25.05";
 
-  home.packages = (with pkgs; [
+  home.packages = with pkgs; [
     mangohud
     protonup
     ungoogled-chromium
@@ -32,16 +32,19 @@
     zoom-us
     thunderbird
     kitty
+    krita
     rofi
     gh
     hyprsunset
     hyfetch
     fastfetch
-  ])
-  ++
-  (with pkgsUnstable; [
     helix
-  ]);
+  ];
+
+  nixpkgs.config.permittedInsecurePackages = [
+    "dotnet-sdk-6.0.428"
+    "dotnet-runtime-6.0.36"
+  ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.

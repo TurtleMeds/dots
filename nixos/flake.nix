@@ -3,10 +3,9 @@
   description = "Central configuration flake";
 
   inputs = {
-    nixpkgs.url = "nixpkgs/nixos-25.05";
-    nixpkgsUnstable.url = "nixpkgs/nixos-unstable";
+    nixpkgs.url = "nixpkgs/nixos-unstable";
     home-manager = {
-      url = "github:nix-community/home-manager/release-25.05";
+      url = "github:nix-community/home-manager";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     zen-browser = {
@@ -15,11 +14,10 @@
     };
   };
   
-  outputs = { self, nixpkgs, home-manager, zen-browser, nixpkgsUnstable, ... }:
+  outputs = { self, nixpkgs, home-manager, zen-browser, ... }:
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
-      pkgsUnstable = nixpkgsUnstable.legacyPackages.${system};
     in {
     nixosConfigurations.home = nixpkgs.lib.nixosSystem {
       inherit system;
@@ -31,7 +29,6 @@
       modules = [ ./home.nix ];
       extraSpecialArgs = {
         inherit zen-browser;
-        inherit pkgsUnstable;
       };
     };
   };
