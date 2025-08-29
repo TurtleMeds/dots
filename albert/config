@@ -2,6 +2,9 @@
 memoryDecay=0.84
 telemetry=false
 
+[application]
+enabled=true
+
 [applications]
 enabled=true
 fuzzy=true
