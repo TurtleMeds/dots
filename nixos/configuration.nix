@@ -168,6 +168,19 @@
   # Allow unfree packages
   nixpkgs.config.allowUnfree = true;
   nixpkgs.config.nvidia.acceptLicense = true;
+  nixpkgs.overlays = [
+    (final: prev: {
+      keyd = prev.keyd.overrideAttrs (old: {
+        version = "git-master";
+        src = prev.fetchFromGitHub {
+          owner = "rvaiya";
+          repo = "keyd";
+          rev = "39bddd1"; # or pin to a specific commit
+          sha256 = "sha256-S1/6adxPut45G6suoEvLl3sqTbbg8tAhJ+4tXdwP/mE";
+        };
+      });
+    })
+  ];
   # nixpkgs.config.permittedInsecurePackages = [
   #   "dotnet-sdk-6.0.428"
   #   "dotnet-runtime-6.0.36"
@@ -176,6 +189,7 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     wget
+    via
     helix
     libsForQt5.qt5ct
     zellij
