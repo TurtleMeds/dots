@@ -202,6 +202,9 @@
     pinentry-gnome3
     keyd
     wev
+    zip
+    unzip
+    nemo
   ];
 
   fonts.packages = with pkgs; [
