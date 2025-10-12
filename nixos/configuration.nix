@@ -153,6 +153,8 @@
     ];
   };
 
+  virtualisation.spiceUSBRedirection.enable = true;
+
   programs = {
     gnupg.agent = {
       enable = true;
@@ -205,6 +207,7 @@
     zip
     unzip
     nemo
+    quickemu
   ];
 
   fonts.packages = with pkgs; [
