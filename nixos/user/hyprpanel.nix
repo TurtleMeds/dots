@@ -787,15 +787,37 @@
             }
             {
               left = [
-                "workspaces"
+                "dashboard"
                 "clock"
+                "workspaces"
               ];
               middle = [
                 "windowtitle"
               ];
               right = [
+                "hypridle"
+                "hyprsunset"
                 "volume"
                 "network"
+                "systray"
+                "notifications"
+              ];
+            }
+            {
+              left = [
+                "dashboard"
+                "clock"
+                "workspaces"
+              ];
+              middle = [
+                "windowtitle"
+              ];
+              right = [
+                "hypridle"
+                "hyprsunset"
+                "volume"
+                "network"
+                "systray"
                 "notifications"
               ];
             }
